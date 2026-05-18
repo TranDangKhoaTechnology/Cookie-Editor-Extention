@@ -1,0 +1,539 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "குக்கீ பெயரைத் தேடு"
+    },
+    "btn_copy": {
+        "message": "நகல் எடு"
+    },
+    "btn_add": {
+        "message": "சேர்"
+    },
+    "btn_import": {
+        "message": "இறக்குமதி"
+    },
+    "btn_export": {
+        "message": "ஏற்றுமதி"
+    },
+    "btn_remove": {
+        "message": "அனைத்தையும் அழி"
+    },
+    "msg_no_cookies": {
+        "message": "குக்கீகள் இல்லை."
+    },
+    "btn_delete": {
+        "message": "நீக்கு"
+    },
+    "btn_cancel": {
+        "message": "ரத்து செய்"
+    },
+    "btn_edit": {
+        "message": "திருத்து"
+    },
+    "title_delete": {
+        "message": "இந்த வலைத்தளத்தின் அனைத்து குக்கீகளையும் நீக்க விரும்புகிறீர்களா?"
+    },
+    "title_import": {
+        "message": "குக்கீகளை இறக்குமதி செய்ய விரும்புகிறீர்களா?"
+    },
+    "msg_import_error": {
+        "message": "குக்கீகளை இறக்குமதி செய்வதில் தோல்வி."
+    },
+    "pl_password": {
+        "message": "குக்கீகளை குறியாக்க/குறிவிலக்க செய்ய பாஸ்வேர்ட்"
+    },
+    "title_export": {
+        "message": "குக்கீகளை ஏற்றுமதி செய்ய விரும்புகிறீர்களா?"
+    },
+    "display_setting_title": {
+        "message": "காட்சி அமைப்பு"
+    },
+    "display_setting_description": {
+        "message": "குக்கீகளைப் பார்க்க காட்சி முறை அமைப்புகள்"
+    },
+    "display_setting_option_default": {
+        "message": "இயல்புநிலை முறை"
+    },
+    "display_setting_option_compact": {
+        "message": "கச்சிதமான முறை"
+    },
+    "display_setting_option_custom": {
+        "message": "தனிப்பயன் முறை"
+    },
+    "setting_customize_display_cookie": {
+        "message": "குக்கீ காட்சியை தனிப்பயனாக்கு"
+    },
+    "copy_setting_title": {
+        "message": "நகல் அமைப்பு"
+    },
+    "copy_setting_description": {
+        "message": "குக்கீகளை நகலெடுக்கும் போது இயல்புநிலை வடிவம்"
+    },
+    "export_setting_title": {
+        "message": "ஏற்றுமதி அமைப்பு"
+    },
+    "export_setting_description": {
+        "message": "குக்கீகளை ஏற்றுமதி செய்யும் போது இயல்புநிலை வடிவம்"
+    },
+    "import_setting_title": {
+        "message": "இறக்குமதி அமைப்பு"
+    },
+    "import_setting_description": {
+        "message": "குக்கீ இறக்குமதி அமைப்புகளுக்கான விருப்பங்கள்"
+    },
+    "import_setting_option_reload_page": {
+        "message": "இறக்குமதி செய்த பிறகு பக்கத்தை மீண்டும் ஏற்று"
+    },
+    "import_setting_format": {
+        "message": "இயல்புநிலை இறக்குமதி விருப்பம்"
+    },
+    "import_setting_format_text": {
+        "message": "உரையைப் பயன்படுத்து"
+    },
+    "import_setting_format_file": {
+        "message": "கோப்பைப் பயன்படுத்து"
+    },
+    "alert_copy_cookie_success": {
+        "message": "நகல் எடுத்தல் வெற்றிகரமாக завершено"
+    },
+    "no_cookie_description": {
+        "message": "இந்த வலைத்தளத்தில் குக்கீகள் இல்லை."
+    },
+    "sidebar_setting": {
+        "message": "அமைப்பு"
+    },
+    "sidebar_export": {
+        "message": "ஏற்றுமதி"
+    },
+    "sidebar_import": {
+        "message": "இறக்குமதி"
+    },
+    "alert_add_cookie_success": {
+        "message": "குக்கீ சேர்த்தல் வெற்றிகரமானது"
+    },
+    "alert_add_cookie_error": {
+        "message": "குக்கீ சேர்த்தலில் பிழை"
+    },
+    "title_add_cookie": {
+        "message": "குக்கீ சேர்"
+    },
+    "description_add_cookie": {
+        "message": "குக்கீ சேர்க்க விரும்புகிறீர்களா?"
+    },
+    "title_clear_cookie": {
+        "message": "குக்கீகளை அழி"
+    },
+    "description_clear_cookie": {
+        "message": "இந்த வலைத்தளத்தின் அனைத்து குக்கீகளையும் நீக்க விரும்புகிறீர்களா?"
+    },
+    "title_copy_cookie": {
+        "message": "குக்கீ நகல் எடு"
+    },
+    "description_copy_cookie": {
+        "message": "குக்கீயை எந்த வடிவத்தில் நகல் எடுக்க விரும்புகிறீர்கள்?"
+    },
+    "str_example": {
+        "message": "எடுத்துக்காட்டு"
+    },
+    "title_delete_cookie": {
+        "message": "குக்கீ நீக்கு"
+    },
+    "description_delete_cookie": {
+        "message": "குக்கீ நீக்க விரும்புகிறீர்களா?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "குக்கீ நீக்குதல் வெற்றிகரமானது"
+    },
+    "title_edit_cookie": {
+        "message": "குக்கீ திருத்து"
+    },
+    "description_edit_cooke": {
+        "message": "குக்கீ திருத்த விரும்புகிறீர்களா?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "குக்கீ திருத்துதல் வெற்றிகரமானது"
+    },
+    "title_export_cookie": {
+        "message": "குக்கீ ஏற்றுமதி"
+    },
+    "description_export_cookie": {
+        "message": "குக்கீயை எந்த வடிவத்தில் ஏற்றுமதி செய்ய விரும்புகிறீர்கள்?"
+    },
+    "label_password_encrypt": {
+        "message": "குக்கீகளை குறியாக்க பாஸ்வேர்ட்"
+    },
+    "description_password": {
+        "message": "குக்கீகளை ஏற்றுமதி செய்வதற்கு முன் குறியாக்க விரும்பினால் பாஸ்வேர்ட் உள்ளிடவும் (விரும்பினால்)."
+    },
+    "alert_import_cookie_success": {
+        "message": "குக்கீ இறக்குமதி வெற்றிகரமானது"
+    },
+    "alert_import_cookie_error": {
+        "message": "குக்கீ இறக்குமதியில் பிழை"
+    },
+    "title_import_cookie": {
+        "message": "குக்கீ இறக்குமதி"
+    },
+    "description_import_cookie": {
+        "message": "எப்படி இறக்குமதி செய்ய விரும்புகிறீர்கள்?"
+    },
+    "label_select_file_import": {
+        "message": "இறக்குமதி செய்ய கோப்பைத் தேர்ந்தெடு"
+    },
+    "lable_link_import": {
+        "message": "குக்கீகளை இறக்குமதி செய்ய இணைப்பு"
+    },
+    "label_password_decrypt": {
+        "message": "குக்கீகளை குறிவிலக்க பாஸ்வேர்ட்"
+    },
+    "description_password_decrypt": {
+        "message": "குக்கீகள் குறியாக்கத்தால் பாதுகாக்கப்பட்டால், குறிவிலக்க பாஸ்வேர்ட் உள்ளிடவும் (விரும்பினால்)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "எனக்கு ஒரு காபி வாங்க"
+    },
+    "sidebar_reviews": {
+        "message": "விமர்சனங்கள்"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "உங்களுக்கு பிடித்தால், என்னை ஆதரிப்பதைக் கவனியுங்கள் "
+    },
+    "sidebar_clear_browser": {
+        "message": "உலாவி தரவுகள் அழி"
+    },
+    "sidebar_upgrade": {
+        "message": "மேம்படுத்தம்"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "திறன் குறிப்புரை"
+    },
+    "sidebar_buy_coffee": {
+        "message": "ஒரு காபி வாங்கி தாருங்கள்"
+    },
+    "sidebar_open_source": {
+        "message": "திறந்த மூலக் குறியீடு"
+    },
+    "clear_browser_title": {
+        "message": "உலாவி தரவுகளை அழி"
+    },
+    "clear_browser_description": {
+        "message": "ஒரே கிளிக்கில் அனைத்து உலாவல் தரவுகளையும் நீக்கவும்."
+    },
+    "clear_browser_option_appcache": {
+        "message": "வலைத்தளங்களின் செயலி kcache"
+    },
+    "clear_browser_option_cache": {
+        "message": "உலாவி கேஷ்"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "கேஷ் சேமிப்பு"
+    },
+    "clear_browser_option_cookies": {
+        "message": "குக்கீஸ்"
+    },
+    "clear_browser_option_downloads": {
+        "message": "பதிவிறக்க பட்டியல்"
+    },
+    "clear_browser_option_history": {
+        "message": "உலாவல் வரலாறு"
+    },
+    "clear_browser_option_formData": {
+        "message": "சேமிக்கப்பட்ட படிவத் தரவுகள்"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "வலைத்தள கோப்பு அமைப்புகள்"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB தரவுகள்"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "localStorage தரவுகள்"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "சேவை பணியாளர்கள்"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL தரவுகள்"
+    },
+    "button_select_all": {
+        "message": "அனைத்தையும் தேர்வு செய்"
+    },
+    "button_remove_all": {
+        "message": "அனைத்தையும் நீக்கு"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "எந்த காலத்திற்கான தரவுகளை நீக்க விரும்புகிறீர்கள்?"
+    },
+    "choice_all_time": {
+        "message": "முழு காலம்"
+    },
+    "choice_24h": {
+        "message": "கடந்த 24 மணி"
+    },
+    "choice_last_7days": {
+        "message": "கடந்த 7 நாட்கள்"
+    },
+    "choice_last_30days": {
+        "message": "கடந்த 30 நாட்கள்"
+    },
+    "button_clear_browser": {
+        "message": "தரவுகளை அழி"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "தரவுகளை அழிப்பதை உறுதிப்படுத்து"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "உலாவி தரவை நீக்குவதால் மீட்க முடியாது."
+    },
+    "tooltip_top_action_share": {
+        "message": "பகிர்"
+    },
+    "sidebar_link": {
+        "message": " இணைப்புகள்"
+    },
+    "bottom_message_upgrade": {
+        "message": "இன்றே வருடாந்திர திட்டத்திற்கு 25 % தள்ளுபடி பெறுங்கள்!"
+    },
+    "about_title": {
+        "message": "Trần Đăng Khoa"
+    },
+    "about_content_1": {
+        "message": "நான் ஒரு டெவலப்பர். Chrome நீட்சிகள் உருவாக்க விரும்புகிறேன். சமூக ஊடகங்களில் தகவல்பரப்பிற்கும் விளம்பரத்திற்கும் உதவுகிறேன்."
+    },
+    "about_content_2": {
+        "message": "என்னைப் பற்றி மேலும் அறிந்து கீழ்காணும் சமூக தளங்களில் தொடர்பு கொள்ளலாம்."
+    },
+    "account_type_premium": {
+        "message": "ப்ரீமியம்"
+    },
+    "account_type_free": {
+        "message": "இலவசம்"
+    },
+    "email": {
+        "message": "மின்னஞ்சல்"
+    },
+    "created_at": {
+        "message": "உருவாக்கப்பட்டது"
+    },
+    "expiry_date": {
+        "message": "காலாவதி தேதி"
+    },
+    "logout": {
+        "message": "வெளியேறு"
+    },
+    "buy_coffee_content_1": {
+        "message": "மென்பொருள் பராமரிப்பு பல நேரமும் தூக்கமில்லாத இரவுகளும் எடுக்கும், குறிப்பாக வேலை நேரத்திற்குப் பிறகு."
+    },
+    "buy_coffee_content_2": {
+        "message": "என் பணியை மதித்து ஆதரிக்க விரும்பினால், பல வழிகளுண்டு."
+    },
+    "no_support": {
+        "message": "ஆதரிக்க விரும்பவில்லை."
+    },
+    "feature_suggest_title": {
+        "message": "哪ர் 기능을 원하세요?"
+    },
+    "feature_suggest_description": {
+        "message": "உங்கள் விருப்பமான பயன்பாட்டை தயவுசெய்து குறிப்பிட்டு அனுப்பவும்."
+    },
+    "fs_email_description": {
+        "message": "உங்கள் மின்னஞ்சலை உள்ளிடவும். வேண்டுமானால் தெளிவுக்கு தொடர்புக்கு உங்களை அணுகலாம். (ஆய்வற்றது)"
+    },
+    "label_fs": {
+        "message": "க功能 பரிந்துரையின் தலைப்பு"
+    },
+    "pl_fs_input": {
+        "message": "நீங்கள் விரும்பும் பயன்பாடு"
+    },
+    "payment_fs": {
+        "message": "இந்த பயன்பாட்டுக்காக சம்பளம் கிடைக்குமா?"
+    },
+    "button_loading": {
+        "message": "ஓதப்படுகிறது …"
+    },
+    "button_suggest": {
+        "message": "பரிந்துரையை அனுப்பு"
+    },
+    "website": {
+        "message": "இணையதளம்"
+    },
+    "title": {
+        "message": "தலைப்பு"
+    },
+    "title_description": {
+        "message": "இப்பக்கத்தில் இருந்து cookie இணைப்பு எந்த இணையதளத்திற்கு சென்று சேரும் என்பதைப் புழிக்க உதவும் நினைவூட்டும் பெயர். (தேவை)"
+    },
+    "expiration_time": {
+        "message": "காலாவதி நேரம்"
+    },
+    "msg_link_not_found": {
+        "message": "இந்த இணைப்பை கிடைக்கவில்லை."
+    },
+    "msg_no_permission": {
+        "message": "உங்களுக்கு அனுமதி இல்லை."
+    },
+    "msg_error": {
+        "message": "கணினி கணினியில் பிழை ஏற்பட்டுள்ளது."
+    },
+    "share_cookie_title": {
+        "message": "COOKIE பகிர்"
+    },
+    "share_cookie_description": {
+        "message": "இந்த cookie பகிர விரும்புகிறீர்களா?"
+    },
+    "time_option_1h": {
+        "message": "1 மணி"
+    },
+    "exp_custom": {
+        "message": "தனிப்பயன்"
+    },
+    "unlimited": {
+        "message": "வரம்பற்ற"
+    },
+    "type_option_exp_h": {
+        "message": "மணி"
+    },
+    "type_option_exp_d": {
+        "message": "நாள்"
+    },
+    "type_option_exp_m": {
+        "message": "மாதம்"
+    },
+    "type_option_exp_y": {
+        "message": "ஆண்டு"
+    },
+    "msg_title_empty": {
+        "message": "தலைப்பு காலியாக இருக்க கூடாது."
+    },
+    "msg_password_empty": {
+        "message": "கடவுச்சொல் காலியாக இருக்க கூடாது."
+    },
+    "msg_password_length": {
+        "message": "கடவுச்சொல் குறைந்தது 8 எழுத்துகள் இருக்க வேண்டும்."
+    },
+    "msg_share_error": {
+        "message": "பகிர்வுப் பிழை."
+    },
+    "password_encrypt": {
+        "message": "COOKIE நகலை திறக்க கடவுச்சொல்"
+    },
+    "password_encrypt_description": {
+        "message": "COOKIE பகிர்வுக்கு முன் வழிமுறை ரகசியமாக்கு. நம் கூட இல்லாமல் பார்வையிடமுடியாது. (தேவை)"
+    },
+    "link_exp": {
+        "message": "இணைப்பு காலாவதியாகும்"
+    },
+    "link_exp_description": {
+        "message": "நீங்கள் அட்டவணைக்கு மீட்டமைக்க விரும்பினால் காலாவதி காலத்தை கொடுக்கவும். காலாவதி இல்லாமல் விட அட்டவணை."
+    },
+    "public_link_cookie": {
+        "message": "இணைப்பைக் கொண்ட யாரும் அணுகலாம்."
+    },
+    "title_upgrade": {
+        "message": "எளிய விலை"
+    },
+    "upgrade_description": {
+        "message": "எளிய, தெளிவான விலை, கண்டின்நிலை சந்தா பதிவு. எப்போதும் திட்டம் மாற்றலாம் அல்லது நிறுத்தலாம்."
+    },
+    "btn_upgrade_month": {
+        "message": "___price___/மாதம் முதல் துவக்கம்"
+    },
+    "btn_upgrade_year": {
+        "message": "___price___/வருடம் முதல் துவக்கம்"
+    },
+    "msg_upgrade": {
+        "message": "25% தள்ளுபடியை பெறுங்கள் — ___price___ badhila ___sale___/வருடத்திற்கு மட்டும் செலுத்துங்கள்"
+    },
+    "upgrade_fs_1": {
+        "message": "COOKIE மேலாண்மை"
+    },
+    "upgrade_fs_2": {
+        "message": "குறியாக்கமும் திறப்பும்"
+    },
+    "upgrade_fs_3": {
+        "message": "COOKIE பகிர்வு"
+    },
+    "upgrade_fs_4": {
+        "message": "விளம்பரம் இல்லை"
+    },
+    "upgrade_fs_5": {
+        "message": "ஆதரவு"
+    },
+    "remind_login": {
+        "message": "COOKIE இணைப்பு மூலம் பகிர்வதற்கு முன் உங்களால் கணக்கு தேவை."
+    },
+    "remind_login_btn": {
+        "message": "இப்போது புகுபதிகை"
+    },
+    "remind_upgrade_title": {
+        "message": "இந்த வசதியை பயன்படுத்த வேண்டுமா? மேம்படுத்தவும்."
+    },
+    "remind_upgrade_description": {
+        "message": "இந்த மேம்பட்ட வசதி செயற்கணினி கணக்குகளுக்கு மட்டுமே கிடைக்கிறது. அணுகவேண்டும் என்றால் இப்போது மேம்படுத்தவும்."
+    },
+    "remind_upgrade_btn": {
+        "message": "இப்போது மேம்படுத்தவும்"
+    },
+    "msg_password_error": {
+        "message": "கடவுச்சொல் தவறானது."
+    },
+    "msg_cookie_error": {
+        "message": "COOKIE தகவல்கள் தவறு. தயவுசெய்து மீண்டும் உள்நுழைக."
+    },
+    "msg_link_exp": {
+        "message": "இணைப்பு காலாவதியானது."
+    },
+    "owner": {
+        "message": "உரிமையாளர்"
+    },
+    "page_import_description": {
+        "message": "பகிரப்பட்டCOOKIE இணைப்பின் மூலம் நீங்கள் COOKIE இறக்குமதி செயல்பாட்டைப் பயன்படுத்துகிறீர்கள்."
+    },
+    "title_upgrade_no_ads": {
+        "message": "விளம்பரங்களை அகற்று – ஒரே முறை $1"
+    },
+    "description_upgrade_no_ads": {
+        "message": "இனிமேல் விளம்பரங்கள் இல்லை. ஒருமுறை செலுத்து, என்றென்றும் மகிழ்ந்திடு."
+    },
+    "str_convert_share_link": {
+        "message": "இந்த குக்கியை யாரையாவது பகிர விரும்புகிறீர்களா?"
+    },
+    "cta_convert_share_link": {
+        "message": "இதற்கு பதிலாக இணைப்பின் மூலம் பகிரவும்"
+    },
+    "message_copy_link_success": {
+        "message": "இணைப்பு வெற்றிகரமாக நகலெடுக்கப்பட்டது"
+    },
+    "message_copy_link_error": {
+        "message": "இணைப்பை நகலெடுக்க முடியவில்லை"
+    },
+    "setting_title": {
+        "message": "அடிப்படை அமைப்புகள்"
+    },
+    "setting_description": {
+        "message": "நீங்கள் எவ்வாறு நீட்டிப்பு செயல்படுகிறது என்பதை தனிப்பயனாக்குக"
+    },
+    "setting_confirm_dialog": {
+        "message": "உறுதிப்படுத்தல் உரையாடல்"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "நீட்டிப்பைப் பயன்படுத்தும் போது உறுதிப்படுத்தல் உரையாடலை அமைக்கவும்"
+    },
+    "setting_dialog_copy": {
+        "message": "தற்போதைய குக்கீகளை நகலெடுக்கும் போது உறுதிப்படுத்தல் உரையாடலைக் காட்டு"
+    },
+    "setting_dialog_delete": {
+        "message": "தற்போதைய குக்கீகளை நீக்கும் போது உறுதிப்படுத்தல் உரையாடலைக் காட்டு"
+    },
+    "setting_dialog_delete_all": {
+        "message": "அனைத்து தற்போதைய குக்கீகளை நீக்கும் போது உறுதிப்படுத்தல் உரையாடலைக் காட்டு"
+    },
+    "setting_enable_context_menus": {
+        "message": "சூழல் மெனு விருப்பங்கள்"
+    }
+}

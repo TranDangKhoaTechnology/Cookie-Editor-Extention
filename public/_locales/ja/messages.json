@@ -1,0 +1,539 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "クッキー名を検索"
+    },
+    "btn_copy": {
+        "message": "コピー"
+    },
+    "btn_add": {
+        "message": "追加"
+    },
+    "btn_import": {
+        "message": "インポート"
+    },
+    "btn_export": {
+        "message": "エクスポート"
+    },
+    "btn_remove": {
+        "message": "すべてクリア"
+    },
+    "msg_no_cookies": {
+        "message": "クッキーはありません。"
+    },
+    "btn_delete": {
+        "message": "削除"
+    },
+    "btn_cancel": {
+        "message": "キャンセル"
+    },
+    "btn_edit": {
+        "message": "編集"
+    },
+    "title_delete": {
+        "message": "このウェブサイトのすべてのクッキーを削除しますか？"
+    },
+    "title_import": {
+        "message": "クッキーをインポートしようとしていますか？"
+    },
+    "msg_import_error": {
+        "message": "クッキーのインポートに失敗しました。"
+    },
+    "pl_password": {
+        "message": "クッキーを暗号化/復号化するためのパスワード"
+    },
+    "title_export": {
+        "message": "クッキーをエクスポートしようとしていますか？"
+    },
+    "display_setting_title": {
+        "message": "表示設定"
+    },
+    "display_setting_description": {
+        "message": "クッキーを表示するための表示モード設定"
+    },
+    "display_setting_option_default": {
+        "message": "デフォルトモード"
+    },
+    "display_setting_option_compact": {
+        "message": "コンパクトモード"
+    },
+    "display_setting_option_custom": {
+        "message": "カスタムモード"
+    },
+    "setting_customize_display_cookie": {
+        "message": "クッキーの表示をカスタマイズ"
+    },
+    "copy_setting_title": {
+        "message": "コピー設定"
+    },
+    "copy_setting_description": {
+        "message": "クッキーをコピーする際のデフォルト形式"
+    },
+    "export_setting_title": {
+        "message": "エクスポート設定"
+    },
+    "export_setting_description": {
+        "message": "クッキーをエクスポートする際のデフォルト形式"
+    },
+    "import_setting_title": {
+        "message": "インポート設定"
+    },
+    "import_setting_description": {
+        "message": "クッキーのインポート設定のオプション"
+    },
+    "import_setting_option_reload_page": {
+        "message": "インポート後にウェブページを再読み込み"
+    },
+    "import_setting_format": {
+        "message": "デフォルトのインポートオプション"
+    },
+    "import_setting_format_text": {
+        "message": "テキストを使用"
+    },
+    "import_setting_format_file": {
+        "message": "ファイルを使用"
+    },
+    "alert_copy_cookie_success": {
+        "message": "コピー成功"
+    },
+    "no_cookie_description": {
+        "message": "ウェブサイトにクッキーはありません。"
+    },
+    "sidebar_setting": {
+        "message": "設定"
+    },
+    "sidebar_export": {
+        "message": "エクスポート"
+    },
+    "sidebar_import": {
+        "message": "インポート"
+    },
+    "alert_add_cookie_success": {
+        "message": "クッキーの追加に成功"
+    },
+    "alert_add_cookie_error": {
+        "message": "クッキーの追加に失敗"
+    },
+    "title_add_cookie": {
+        "message": "クッキーを追加"
+    },
+    "description_add_cookie": {
+        "message": "クッキーを追加しますか？"
+    },
+    "title_clear_cookie": {
+        "message": "クッキーをクリア"
+    },
+    "description_clear_cookie": {
+        "message": "このウェブサイトのすべてのクッキーを削除しますか？"
+    },
+    "title_copy_cookie": {
+        "message": "クッキーをコピー"
+    },
+    "description_copy_cookie": {
+        "message": "どの形式でクッキーをコピーしますか？"
+    },
+    "str_example": {
+        "message": "例"
+    },
+    "title_delete_cookie": {
+        "message": "クッキーを削除"
+    },
+    "description_delete_cookie": {
+        "message": "クッキーを削除しますか？"
+    },
+    "alert_delete_cookie_success": {
+        "message": "クッキーの削除に成功"
+    },
+    "title_edit_cookie": {
+        "message": "クッキーを編集"
+    },
+    "description_edit_cooke": {
+        "message": "クッキーを編集しますか？"
+    },
+    "alert_edit_cookie_success": {
+        "message": "クッキーの編集に成功"
+    },
+    "title_export_cookie": {
+        "message": "クッキーをエクスポート"
+    },
+    "description_export_cookie": {
+        "message": "どの形式でクッキーをエクスポートしますか？"
+    },
+    "label_password_encrypt": {
+        "message": "クッキーを暗号化するためのパスワード"
+    },
+    "description_password": {
+        "message": "エクスポート前にクッキーを暗号化する場合はパスワードを入力してください（オプション）。"
+    },
+    "alert_import_cookie_success": {
+        "message": "クッキーのインポートに成功"
+    },
+    "alert_import_cookie_error": {
+        "message": "クッキーのインポートに失敗"
+    },
+    "title_import_cookie": {
+        "message": "クッキーをインポート"
+    },
+    "description_import_cookie": {
+        "message": "どのようにインポートしますか？"
+    },
+    "label_select_file_import": {
+        "message": "インポートするファイルを選択"
+    },
+    "lable_link_import": {
+        "message": "クッキーをインポートするためのリンク"
+    },
+    "label_password_decrypt": {
+        "message": "クッキーを復号化するためのパスワード"
+    },
+    "description_password_decrypt": {
+        "message": "クッキーが暗号化されている場合は復号化パスワードを入力してください（オプション）。"
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "コーヒーをおごってください e"
+    },
+    "sidebar_reviews": {
+        "message": "レビュー"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "気に入ったら、私をサポートすることを検討してください"
+    },
+    "sidebar_clear_browser": {
+        "message": "ブラウザのデータをクリア"
+    },
+    "sidebar_upgrade": {
+        "message": "アップグレード"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "機能の提案"
+    },
+    "sidebar_buy_coffee": {
+        "message": "コーヒーをごちそうしてください"
+    },
+    "sidebar_open_source": {
+        "message": "オープンソース"
+    },
+    "clear_browser_title": {
+        "message": "ブラウザデータをクリア"
+    },
+    "clear_browser_description": {
+        "message": "ワンクリックで全てのブラウジングデータを削除します。"
+    },
+    "clear_browser_option_appcache": {
+        "message": "サイトのアプリキャッシュ"
+    },
+    "clear_browser_option_cache": {
+        "message": "ブラウザキャッシュ"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "キャッシュストレージ"
+    },
+    "clear_browser_option_cookies": {
+        "message": "クッキー"
+    },
+    "clear_browser_option_downloads": {
+        "message": "ダウンロード履歴"
+    },
+    "clear_browser_option_history": {
+        "message": "閲覧履歴"
+    },
+    "clear_browser_option_formData": {
+        "message": "フォーム入力データ"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "サイトのファイルシステム"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB データ"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "ローカルストレージ"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Worker"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL データ"
+    },
+    "button_select_all": {
+        "message": "すべて選択"
+    },
+    "button_remove_all": {
+        "message": "すべて削除"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "どの期間のデータを削除しますか？"
+    },
+    "choice_all_time": {
+        "message": "全期間"
+    },
+    "choice_24h": {
+        "message": "過去24時間"
+    },
+    "choice_last_7days": {
+        "message": "過去7日間"
+    },
+    "choice_last_30days": {
+        "message": "過去30日間"
+    },
+    "button_clear_browser": {
+        "message": "データをクリア"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "データ削除の確認"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "ブラウザデータは完全に削除され、復元できません。"
+    },
+    "tooltip_top_action_share": {
+        "message": "共有"
+    },
+    "sidebar_link": {
+        "message": "リンク"
+    },
+    "bottom_message_upgrade": {
+        "message": "年間プランへのアップグレードで今なら25％オフ！"
+    },
+    "about_title": {
+        "message": "Trần Đăng Khoa"
+    },
+    "about_content_1": {
+        "message": "私は開発者で、Chrome拡張機能を作るのが好きです。ソーシャルメディアのコミュニケーションを支援・促進します。"
+    },
+    "about_content_2": {
+        "message": "以下のSNSプラットフォームで連絡できます。詳細はこちらからどうぞ。"
+    },
+    "account_type_premium": {
+        "message": "プレミアム"
+    },
+    "account_type_free": {
+        "message": "無料"
+    },
+    "email": {
+        "message": "メール"
+    },
+    "created_at": {
+        "message": "作成日"
+    },
+    "expiry_date": {
+        "message": "有効期限"
+    },
+    "logout": {
+        "message": "ログアウト"
+    },
+    "buy_coffee_content_1": {
+        "message": "ソフトウェアのメンテナンスには多くの時間と寝ない夜が必要です。特に普段の仕事後に取り組む場合はなおさらです。"
+    },
+    "buy_coffee_content_2": {
+        "message": "私の仕事が役に立ったと思われたら、ぜひサポートしていただけると嬉しいです。"
+    },
+    "no_support": {
+        "message": "サポートしない"
+    },
+    "feature_suggest_title": {
+        "message": "どんな機能を追加してほしいですか？"
+    },
+    "feature_suggest_description": {
+        "message": "ご希望の機能があれば教えてください。対応を検討します。"
+    },
+    "fs_email_description": {
+        "message": "メールアドレスを入力してください。確認のため連絡することがあります。（任意）"
+    },
+    "label_fs": {
+        "message": " 機能提案"
+    },
+    "pl_fs_input": {
+        "message": "検討してほしい機能"
+    },
+    "payment_fs": {
+        "message": "その機能にお金を払ってもいいと思いますか？"
+    },
+    "button_loading": {
+        "message": "読み込み中..."
+    },
+    "button_suggest": {
+        "message": "提案する"
+    },
+    "website": {
+        "message": "ウェブサイト"
+    },
+    "title": {
+        "message": "タイトル"
+    },
+    "title_description": {
+        "message": "このクッキーリンクがどのサイトに属しているかを識別しやすくするための覚えやすい名称。（必須）"
+    },
+    "expiration_time": {
+        "message": "有効期限"
+    },
+    "msg_link_not_found": {
+        "message": "このリンクは存在しません。"
+    },
+    "msg_no_permission": {
+        "message": "権限がありません。"
+    },
+    "msg_error": {
+        "message": "システムエラーが発生しました。"
+    },
+    "share_cookie_title": {
+        "message": "クッキーを共有"
+    },
+    "share_cookie_description": {
+        "message": "このクッキーを共有しますか？"
+    },
+    "time_option_1h": {
+        "message": "1時間"
+    },
+    "exp_custom": {
+        "message": "カスタム"
+    },
+    "unlimited": {
+        "message": "無制限"
+    },
+    "type_option_exp_h": {
+        "message": "時間"
+    },
+    "type_option_exp_d": {
+        "message": "日"
+    },
+    "type_option_exp_m": {
+        "message": "月"
+    },
+    "type_option_exp_y": {
+        "message": "年"
+    },
+    "msg_title_empty": {
+        "message": "タイトルは空にできません。"
+    },
+    "msg_password_empty": {
+        "message": "パスワードは空にできません。"
+    },
+    "msg_password_length": {
+        "message": "パスワードは8文字以上必要です。"
+    },
+    "msg_share_error": {
+        "message": "共有に失敗しました。"
+    },
+    "password_encrypt": {
+        "message": "クッキー復号用パスワード"
+    },
+    "password_encrypt_description": {
+        "message": "共有前にクッキーを暗号化するパスワードを入力してください。パスワードがないと中身を読むことはできません。（必須）"
+    },
+    "link_exp": {
+        "message": "リンク期限"
+    },
+    "link_exp_description": {
+        "message": "このリンクを共有する有効期間を設定してください。特になければ空白でOKです。"
+    },
+    "public_link_cookie": {
+        "message": "誰でもこの共有リンクにアクセスできます。"
+    },
+    "title_upgrade": {
+        "message": "シンプルな料金設定"
+    },
+    "upgrade_description": {
+        "message": "わかりやすく透明な価格体系、無制限の利用者。いつでもプラン変更・キャンセル可能です。"
+    },
+    "btn_upgrade_month": {
+        "message": "___price___/月から開始"
+    },
+    "btn_upgrade_year": {
+        "message": "___price___/年から開始"
+    },
+    "msg_upgrade": {
+        "message": "25%割引 — ___price___ の代わりに ___sale___/年で購入可能"
+    },
+    "upgrade_fs_1": {
+        "message": "クッキー管理"
+    },
+    "upgrade_fs_2": {
+        "message": "暗号化と復号"
+    },
+    "upgrade_fs_3": {
+        "message": " クッキー共有"
+    },
+    "upgrade_fs_4": {
+        "message": "広告なし"
+    },
+    "upgrade_fs_5": {
+        "message": "サポート"
+    },
+    "remind_login": {
+        "message": "リンクを介してクッキーを共有する前にアカウントを作成してください。"
+    },
+    "remind_login_btn": {
+        "message": "今すぐ登録"
+    },
+    "remind_upgrade_title": {
+        "message": "この機能を使うにはアップグレードしてください。"
+    },
+    "remind_upgrade_description": {
+        "message": "この高度な機能は有料アカウントのみ利用可能です。今すぐアップグレードしてご利用ください。"
+    },
+    "remind_upgrade_btn": {
+        "message": "アップグレード"
+    },
+    "msg_password_error": {
+        "message": "パスワードが無効です。"
+    },
+    "msg_cookie_error": {
+        "message": "クッキー情報が無効です。再ログインしてください。"
+    },
+    "msg_link_exp": {
+        "message": "リンクの有効期限が切れています。"
+    },
+    "owner": {
+        "message": "所有者"
+    },
+    "page_import_description": {
+        "message": "共有リンク経由でクッキーのインポート機能を使用しています。"
+    },
+    "title_upgrade_no_ads": {
+        "message": "広告を削除 – 1回限りの___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "もう広告は表示されません。一度支払えば、ずっと楽しめます。"
+    },
+    "str_convert_share_link": {
+        "message": "このクッキーを誰かと共有しますか？"
+    },
+    "cta_convert_share_link": {
+        "message": "代わりにリンクで共有する"
+    },
+    "message_copy_link_success": {
+        "message": "リンクのコピーに成功しました"
+    },
+    "message_copy_link_error": {
+        "message": "リンクのコピーに失敗しました"
+    },
+    "setting_title": {
+        "message": "基本設定"
+    },
+    "setting_description": {
+        "message": "拡張機能の動作をカスタマイズします"
+    },
+    "setting_confirm_dialog": {
+        "message": "確認ダイアログ"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "拡張機能使用時に確認ダイアログを表示する"
+    },
+    "setting_dialog_copy": {
+        "message": "現在のクッキーをコピーする際に確認ダイアログを表示"
+    },
+    "setting_dialog_delete": {
+        "message": "現在のクッキーを削除する際に確認ダイアログを表示"
+    },
+    "setting_dialog_delete_all": {
+        "message": "すべての現在のクッキーを削除する際に確認ダイアログを表示"
+    },
+    "setting_enable_context_menus": {
+        "message": "コンテキストメニューオプション"
+    }
+}

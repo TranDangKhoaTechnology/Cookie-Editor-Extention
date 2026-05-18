@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Cookie icon">
+  <defs>
+    <clipPath id="cookie-body">
+      <path d="M126 0a126 126 0 1 0 127 126c0-7-1-14-2-21-12 6-28 3-38-8-11-12-12-30-3-43-16-1-30-13-33-29-15 4-31 0-43-11C132 9 129 4 126 0Z"/>
+    </clipPath>
+  </defs>
+  <path fill="#b47147" d="M126 0a126 126 0 1 0 127 126c0-7-1-14-2-21-12 6-28 3-38-8-11-12-12-30-3-43-16-1-30-13-33-29-15 4-31 0-43-11C132 9 129 4 126 0Z"/>
+  <g clip-path="url(#cookie-body)">
+    <ellipse cx="92" cy="237" rx="132" ry="76" fill="#8c4f36" opacity=".28"/>
+    <ellipse cx="151" cy="246" rx="140" ry="82" fill="#75422f" opacity=".18"/>
+    <path fill="#6d4543" d="m57 48 18-5 15 11-5 21-20 5-13-12z"/>
+    <path fill="#6d4543" d="m136 106 19 1 11 20-12 19-22-2-9-18z"/>
+    <path fill="#6d4543" d="m183 158 21 8 3 23-20 13-21-12 3-21z"/>
+    <path fill="#6d4543" d="m79 207 17-9 17 15-5 21-23 1-13-15z"/>
+    <path fill="#6d4543" d="m36 120 17-7 14 13-5 19-21 3-10-14z"/>
+    <path fill="#6d4543" d="m178 56 13-10 16 9 4 21-17 8-17-8z"/>
+    <ellipse cx="34" cy="91" rx="5" ry="9" fill="#c78545"/>
+    <ellipse cx="106" cy="83" rx="5" ry="9" fill="#c78545"/>
+    <ellipse cx="76" cy="156" rx="5" ry="9" fill="#c78545"/>
+    <ellipse cx="190" cy="201" rx="5" ry="9" fill="#c78545"/>
+    <ellipse cx="96" cy="24" rx="8" ry="4" fill="#c78545"/>
+    <path fill="none" stroke="#805242" stroke-linecap="round" stroke-width="6" d="m64 96 9 7m72 11 8-10m40 33 11 10M35 163l4 11m94 48 14-5m-35-55 4 13"/>
+  </g>
+  <g>
+    <path fill="#b47147" stroke="#8f5940" stroke-width="2" d="m184 11 30-7 12 34-32 13-10-21z"/>
+    <path fill="#b47147" stroke="#8f5940" stroke-width="2" d="m226 58 25-9 4 33-33 6-4-23z"/>
+    <path fill="#9a5a40" d="m196 72 14 4-5 15-15-4z"/>
+    <path fill="#90563d" d="m218 98 25 1 1 8-24 1z"/>
+  </g>
+</svg>

@@ -1,0 +1,539 @@
+{
+    "ext_name": {
+        "message": "Editor de Cookie-uri"
+    },
+    "ext_description": {
+        "message": "Editor de cookie-uri simplu, dar puternic, care vă permite să creați, să editați și să ștergeți rapid cookie-uri fără a părăsi fila."
+    },
+    "placeholder_search": {
+        "message": "Căutați numele cookie-ului"
+    },
+    "btn_copy": {
+        "message": "Copiază"
+    },
+    "btn_add": {
+        "message": "Adaugă"
+    },
+    "btn_import": {
+        "message": "Importă"
+    },
+    "btn_export": {
+        "message": "Exportă"
+    },
+    "btn_remove": {
+        "message": "Șterge tot"
+    },
+    "msg_no_cookies": {
+        "message": "Nu există cookie-uri."
+    },
+    "btn_delete": {
+        "message": "Șterge"
+    },
+    "btn_cancel": {
+        "message": "Anulează"
+    },
+    "btn_edit": {
+        "message": "Editează"
+    },
+    "title_delete": {
+        "message": "Doriți să eliminați toate cookie-urile de pe acest site?"
+    },
+    "title_import": {
+        "message": "Încercați să importați cookie-uri?"
+    },
+    "msg_import_error": {
+        "message": "Importul cookie-urilor a eșuat."
+    },
+    "pl_password": {
+        "message": "Parolă pentru criptarea/decriptarea cookie-urilor"
+    },
+    "title_export": {
+        "message": "Încercați să exportați cookie-uri?"
+    },
+    "display_setting_title": {
+        "message": "SETĂRI DE AFIȘARE"
+    },
+    "display_setting_description": {
+        "message": "Setări de mod de afișare pentru vizualizarea cookie-urilor"
+    },
+    "display_setting_option_default": {
+        "message": "Mod implicit"
+    },
+    "display_setting_option_compact": {
+        "message": "Mod compact"
+    },
+    "display_setting_option_custom": {
+        "message": "Mod personalizat"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Personalizați afișarea cookie-urilor"
+    },
+    "copy_setting_title": {
+        "message": "SETĂRI DE COPIERE"
+    },
+    "copy_setting_description": {
+        "message": "Format implicit la copierea cookie-urilor"
+    },
+    "export_setting_title": {
+        "message": "SETĂRI DE EXPORT"
+    },
+    "export_setting_description": {
+        "message": "Format implicit la exportul cookie-urilor"
+    },
+    "import_setting_title": {
+        "message": "SETĂRI DE IMPORT"
+    },
+    "import_setting_description": {
+        "message": "Opțiuni pentru setările de import ale cookie-urilor"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Reîncarcă pagina după import"
+    },
+    "import_setting_format": {
+        "message": "Opțiune de import implicită"
+    },
+    "import_setting_format_text": {
+        "message": "Folosește text"
+    },
+    "import_setting_format_file": {
+        "message": "Folosește un fișier"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Copiere reușită"
+    },
+    "no_cookie_description": {
+        "message": "Site-ul nu are cookie-uri."
+    },
+    "sidebar_setting": {
+        "message": "Setări"
+    },
+    "sidebar_export": {
+        "message": "Exportă"
+    },
+    "sidebar_import": {
+        "message": "Importă"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie adăugat cu succes"
+    },
+    "alert_add_cookie_error": {
+        "message": "Eroare la adăugarea cookie-ului"
+    },
+    "title_add_cookie": {
+        "message": "ADĂUGAȚI COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Doriți să adăugați cookie-ul?"
+    },
+    "title_clear_cookie": {
+        "message": "ȘTERGEȚI COOKIE-URILE"
+    },
+    "description_clear_cookie": {
+        "message": "Doriți să eliminați toate cookie-urile de pe acest site?"
+    },
+    "title_copy_cookie": {
+        "message": "COPIAȚI COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "În ce format doriți să copiați cookie-ul?"
+    },
+    "str_example": {
+        "message": "Exemplu"
+    },
+    "title_delete_cookie": {
+        "message": "ȘTERGEȚI COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Doriți să ștergeți cookie-ul?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie șters cu succes"
+    },
+    "title_edit_cookie": {
+        "message": "EDITAȚI COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Doriți să editați cookie-ul?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie editat cu succes"
+    },
+    "title_export_cookie": {
+        "message": "EXPORTAȚI COOKIE"
+    },
+    "description_export_cookie": {
+        "message":  "În ce format doriți să exportați cookie-ul?"
+    },
+    "label_password_encrypt": {
+        "message": "Parolă pentru criptarea cookie-urilor"
+    },
+    "description_password": {
+        "message": "Introduceți o parolă dacă doriți ca cookie-ul să fie criptat înainte de export (opțional)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Importul cookie-urilor a reușit"
+    },
+    "alert_import_cookie_error": {
+        "message": "Eroare la importul cookie-urilor"
+    },
+    "title_import_cookie": {
+        "message": "IMPORTAȚI COOKIE-URI"
+    },
+    "description_import_cookie": {
+        "message": "Cum doriți să importați?"
+    },
+    "label_select_file_import": {
+        "message": "Selectați un fișier pentru import"
+    },
+    "lable_link_import": {
+        "message": "Link pentru importul cookie-urilor"
+    },
+    "label_password_decrypt": {
+        "message": "Parolă pentru decriptarea cookie-urilor"
+    },
+    "description_password_decrypt": {
+        "message": "Introduceți parola de decriptare dacă cookie-urile sunt protejate prin criptare (opțional)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Cumpără-mi o cafea"
+    },
+    "sidebar_reviews": {
+        "message": "Recenzii"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Dacă îți place, consideră să mă sprijini"
+    },
+    "sidebar_clear_browser": {
+        "message": "Șterge datele browserului"
+    },
+    "sidebar_upgrade": {
+        "message": "Actualizează"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Sugestie funcționalitate"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Oferă-mi o cafea"
+    },
+    "sidebar_open_source": {
+        "message": "Open Source"
+    },
+    "clear_browser_title": {
+        "message": "ȘTERGE DATELE BROWSERULUI"
+    },
+    "clear_browser_description": {
+        "message": "Elimină toate datele de navigare cu un singur clic."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Appcache site‑uri"
+    },
+    "clear_browser_option_cache": {
+        "message": "Cache browser"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Stocare cache"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Cookie‑uri"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Lista descărcărilor"
+    },
+    "clear_browser_option_history": {
+        "message": "Istoric de navigare"
+    },
+    "clear_browser_option_formData": {
+        "message": "Datele de formular salvate"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Sisteme de fișiere ale site‑urilor"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Date IndexedDB ale site‑urilor"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Date localStorage ale site‑urilor"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Date WebSQL ale site‑urilor"
+    },
+    "button_select_all": {
+        "message": "Selectează tot"
+    },
+    "button_remove_all": {
+        "message": "Șterge tot"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Pentru ce perioadă vrei să ștergi datele?"
+    },
+    "choice_all_time": {
+        "message": "Tot timpul"
+    },
+    "choice_24h": {
+        "message": "Ultimele 24 de ore"
+    },
+    "choice_last_7days": {
+        "message": "Ultimele 7 zile"
+    },
+    "choice_last_30days": {
+        "message": "Ultimele 30 de zile"
+    },
+    "button_clear_browser": {
+        "message": "Șterge date"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "CONFIRMĂ ȘTERGEREA DATELOR"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Datele browserului vor fi șterse și nu vor putea fi recuperate."
+    },
+    "tooltip_top_action_share": {
+        "message": "Partajează"
+    },
+    "sidebar_link": {
+        "message": "Link‑uri"
+    },
+    "bottom_message_upgrade": {
+        "message": "Bucură‑te de 25% reducere la planul anual, astăzi!"
+    },
+    "about_title": {
+        "message": "Trần Đăng Khoa"
+    },
+    "about_content_1": {
+        "message": "Sunt dezvoltator și îmi place să creez extensii pentru Chrome. Ajut la dezvoltarea și promovarea comunicării pe rețele sociale."
+    },
+    "about_content_2": {
+        "message": "Află mai multe despre mine și contactează‑mă prin platformele sociale de mai jos."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Gratuit"
+    },
+    "email": {
+        "message": "Email"
+    },
+    "created_at": {
+        "message": "Creat la"
+    },
+    "expiry_date": {
+        "message": "Data expirării"
+    },
+    "logout": {
+        "message": "Deconectare"
+    },
+    "buy_coffee_content_1": {
+        "message": "Mentenanța software necesită mult timp și nopți nedormite, mai ales când lucrez la proiecte după program."
+    },
+    "buy_coffee_content_2": {
+        "message": "Dacă apreciezi munca mea și vrei să mă susții, există câteva modalități prin care poți face asta."
+    },
+    "no_support": {
+        "message": "Nu vreau să susțin."
+    },
+    "feature_suggest_title": {
+        "message": "Ce funcționalitate ai vrea să adăugăm?"
+    },
+    "feature_suggest_description": {
+        "message": "Sugerează o funcționalitate utilă pe care dorești să o dezvoltăm."
+    },
+    "fs_email_description": {
+        "message": "Introdu adresa ta de email. Te putem contacta dacă avem nevoie de clarificări. (opțional)"
+    },
+    "label_fs": {
+        "message": " Sugestie funcționalitate"
+    },
+    "pl_fs_input": {
+        "message": "Funcționalitatea pe care ai vrea să o vezi în aplicație"
+    },
+    "payment_fs": {
+        "message": "Ai fi dispus să plătești pentru această funcționalitate?"
+    },
+    "button_loading": {
+        "message": "Se încarcă..."
+    },
+    "button_suggest": {
+        "message": "Trimite sugestie"
+    },
+    "website": {
+        "message": "Site web"
+    },
+    "title": {
+        "message": "Titlu"
+    },
+    "title_description": {
+        "message": "Un nume memorabil pentru a identifica site‑ul căruia îi aparține acest link de cookie. (Obligatoriu)"
+    },
+    "expiration_time": {
+        "message": "Data expirării"
+    },
+    "msg_link_not_found": {
+        "message": "Acest link nu există."
+    },
+    "msg_no_permission": {
+        "message": "Nu ai permisiunea necesară."
+    },
+    "msg_error": {
+        "message": "A intervenit o eroare a sistemului."
+    },
+    "share_cookie_title": {
+        "message": "PARTAJEAZĂ COOKIE‑UL"
+    },
+    "share_cookie_description": {
+        "message": "Vrei să partajezi acest cookie?"
+    },
+    "time_option_1h": {
+        "message": "1 oră"
+    },
+    "exp_custom": {
+        "message": "Personalizat"
+    },
+    "unlimited": {
+        "message": "Nelimitat"
+    },
+    "type_option_exp_h": {
+        "message": "Ore"
+    },
+    "type_option_exp_d": {
+        "message": "Zile"
+    },
+    "type_option_exp_m": {
+        "message": "Luni"
+    },
+    "type_option_exp_y": {
+        "message": "Ani"
+    },
+    "msg_title_empty": {
+        "message": "Titlul nu poate fi gol."
+    },
+    "msg_password_empty": {
+        "message": "Parola nu poate fi goală."
+    },
+    "msg_password_length": {
+        "message": "Parola trebuie să conțină cel puțin 8 caractere."
+    },
+    "msg_share_error": {
+        "message": "Partajarea a eșuat."
+    },
+    "password_encrypt": {
+        "message": "Parolă pentru decriptarea cookie‑ului"
+    },
+    "password_encrypt_description": {
+        "message": "Introdu o parolă pentru a cripta cookie‑ul înainte de partajare. Nici noi nu putem citi conținutul fără ea. (Obligatoriu)"
+    },
+    "link_exp": {
+        "message": "Link‑ul expiră la"
+    },
+    "link_exp_description": {
+        "message": "Introdu o dată de expirare dacă vrei să partajezi link‑ul temporar. Lasă gol dacă nu are expirare."
+    },
+    "public_link_cookie": {
+        "message": "Oricine are acces la link‑ul partajat."
+    },
+    "title_upgrade": {
+        "message": "Prețuri simple"
+    },
+    "upgrade_description": {
+        "message": "Prețuri clare și transparente, cu abonamente nelimitate. Schimbă planul sau renunță oricând."
+    },
+    "btn_upgrade_month": {
+        "message": "Începând de la ___price___/lună"
+    },
+    "btn_upgrade_year": {
+        "message": "Începând de la ___price___/an"
+    },
+    "msg_upgrade": {
+        "message": "Obține 25% reducere — plătește doar ___sale___/an în loc de ___price___"
+    },
+    "upgrade_fs_1": {
+        "message": "Gestionare cookie‑uri"
+    },
+    "upgrade_fs_2": {
+        "message": "Criptare și decriptare"
+    },
+    "upgrade_fs_3": {
+        "message": " Partajează cookie‑ul"
+    },
+    "upgrade_fs_4": {
+        "message": " Fără reclame"
+    },
+    "upgrade_fs_5": {
+        "message": " Suport"
+    },
+    "remind_login": {
+        "message": "Trebuie să ai cont înainte să partajezi cookie‑ul prin link."
+    },
+    "remind_login_btn": {
+        "message": "Înregistrează‑te acum"
+    },
+    "remind_upgrade_title": {
+        "message": "Fă upgrade pentru a folosi această funcționalitate."
+    },
+    "remind_upgrade_description": {
+        "message": "Această funcționalitate avansată este disponibilă doar pentru conturile plătite. Fă upgrade pentru acces."
+    },
+    "remind_upgrade_btn": {
+        "message": "Fă upgrade acum"
+    },
+    "msg_password_error": {
+        "message": "Parola nu este validă."
+    },
+    "msg_cookie_error": {
+        "message": "Informații de cookie nevalide. Te rog, conectează‑te din nou."
+    },
+    "msg_link_exp": {
+        "message": "Link‑ul a expirat."
+    },
+    "owner": {
+        "message": "Proprietar"
+    },
+    "page_import_description": {
+        "message": "Folosești funcția de import pentru cookie‑uri prin link partajat."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Elimină reclamele – O singură dată ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Fără reclame, niciodată. Plătește o dată, bucură-te pentru totdeauna."
+    },
+    "str_convert_share_link": {
+        "message": "Vrei să împărtășești acest cookie cu cineva?"
+    },
+    "cta_convert_share_link": {
+        "message": "Partajează prin link în schimb"
+    },
+    "message_copy_link_success": {
+        "message": "Link copiat cu succes"
+    },
+    "message_copy_link_error": {
+        "message": "Nu s-a putut copia linkul"
+    },
+    "setting_title": {
+        "message": "SETĂRI DE BAZĂ"
+    },
+    "setting_description": {
+        "message": "Personalizați modul în care funcționează extensia pentru dumneavoastră"
+    },
+    "setting_confirm_dialog": {
+        "message": "DIALOG DE CONFIRMARE"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Afișați un dialog de confirmare când utilizați extensia"
+    },
+    "setting_dialog_copy": {
+        "message": "Afișați dialog de confirmare la copierea cookie-urilor curente"
+    },
+    "setting_dialog_delete": {
+        "message": "Afișați dialog de confirmare la ștergerea cookie-urilor curente"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Afișați dialog de confirmare la ștergerea tuturor cookie-urilor curente"
+    },
+    "setting_enable_context_menus": {
+        "message": "Opțiuni meniu contextual"
+    }
+}

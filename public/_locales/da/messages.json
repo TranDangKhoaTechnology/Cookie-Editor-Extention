@@ -1,0 +1,539 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Søg efter cookienavn"
+    },
+    "btn_copy": {
+        "message": "Kopiér"
+    },
+    "btn_add": {
+        "message": "Tilføj"
+    },
+    "btn_import": {
+        "message": "Importer"
+    },
+    "btn_export": {
+        "message": "Eksporter"
+    },
+    "btn_remove": {
+        "message": "Ryd alt"
+    },
+    "msg_no_cookies": {
+        "message": "Ingen cookies."
+    },
+    "btn_delete": {
+        "message": "Slet"
+    },
+    "btn_cancel": {
+        "message": "Annuller"
+    },
+    "btn_edit": {
+        "message": "Rediger"
+    },
+    "title_delete": {
+        "message": "Vil du fjerne alle cookies fra denne hjemmeside?"
+    },
+    "title_import": {
+        "message": "Forsøger du at importere cookies?"
+    },
+    "msg_import_error": {
+        "message": "Kunne ikke importere cookies."
+    },
+    "pl_password": {
+        "message": "Adgangskode til at kryptere/dekryptere cookies"
+    },
+    "title_export": {
+        "message": "Forsøger du at eksportere cookies?"
+    },
+    "display_setting_title": {
+        "message": "VISNINGSINDSTILLINGER"
+    },
+    "display_setting_description": {
+        "message": "Indstillinger for visningstilstand til visning af cookies"
+    },
+    "display_setting_option_default": {
+        "message": "Standardtilstand"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompakt tilstand"
+    },
+    "display_setting_option_custom": {
+        "message": "Brugerdefineret tilstand"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Tilpas visning af cookies"
+    },
+    "copy_setting_title": {
+        "message": "KOPIERINGSINDSTILLINGER"
+    },
+    "copy_setting_description": {
+        "message": "Standardformat ved kopiering af cookies"
+    },
+    "export_setting_title": {
+        "message": "EKSPORTINDSTILLINGER"
+    },
+    "export_setting_description": {
+        "message": "Standardformat ved eksport af cookies"
+    },
+    "import_setting_title": {
+        "message": "IMPORTINDSTILLINGER"
+    },
+    "import_setting_description": {
+        "message": "Indstillinger for import af cookies"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Genindlæs websiden efter import"
+    },
+    "import_setting_format": {
+        "message": "Standardimportindstilling"
+    },
+    "import_setting_format_text": {
+        "message": "Brug tekst"
+    },
+    "import_setting_format_file": {
+        "message": "Brug en fil"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopiering lykkedes"
+    },
+    "no_cookie_description": {
+        "message": "Hjemmesiden har ingen cookies."
+    },
+    "sidebar_setting": {
+        "message": "Indstillinger"
+    },
+    "sidebar_export": {
+        "message": "Eksporter"
+    },
+    "sidebar_import": {
+        "message": "Importer"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie tilføjet succesfuldt"
+    },
+    "alert_add_cookie_error": {
+        "message": "Fejl ved tilføjelse af cookie"
+    },
+    "title_add_cookie": {
+        "message": "TILFØJ COOKIE"
+    },
+    "description_add_cookie": {
+        "message": "Vil du tilføje cookien?"
+    },
+    "title_clear_cookie": {
+        "message": "RYD COOKIES"
+    },
+    "description_clear_cookie": {
+        "message": "Vil du fjerne alle cookies fra denne hjemmeside?"
+    },
+    "title_copy_cookie": {
+        "message": "KOPIÉR COOKIE"
+    },
+    "description_copy_cookie": {
+        "message": "Hvilket format vil du kopiere cookien i?"
+    },
+    "str_example": {
+        "message": "Eksempel"
+    },
+    "title_delete_cookie": {
+        "message": "SLET COOKIE"
+    },
+    "description_delete_cookie": {
+        "message": "Vil du slette cookien?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie slettet succesfuldt"
+    },
+    "title_edit_cookie": {
+        "message": "REDIGER COOKIE"
+    },
+    "description_edit_cooke": {
+        "message": "Vil du redigere cookien?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie redigeret succesfuldt"
+    },
+    "title_export_cookie": {
+        "message": "EKSPORTER COOKIE"
+    },
+    "description_export_cookie": {
+        "message": "Hvilket format vil du eksportere cookien i?"
+    },
+    "label_password_encrypt": {
+        "message": "Adgangskode til at kryptere cookies"
+    },
+    "description_password": {
+        "message": "Indtast en adgangskode, hvis du vil have cookien krypteret før eksport (valgfrit)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Cookies importeret succesfuldt"
+    },
+    "alert_import_cookie_error": {
+        "message": "Fejl ved import af cookies"
+    },
+    "title_import_cookie": {
+        "message": "IMPORTER COOKIES"
+    },
+    "description_import_cookie": {
+        "message": "Hvordan vil du importere?"
+    },
+    "label_select_file_import": {
+        "message": "Vælg en fil til import"
+    },
+    "lable_link_import": {
+        "message": "Link til at importere cookies"
+    },
+    "label_password_decrypt": {
+        "message": "Adgangskode til at dekryptere cookies"
+    },
+    "description_password_decrypt": {
+        "message": "Indtast dekrypteringsadgangskoden, hvis cookies er beskyttet med kryptering (valgfrit)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Køb mig en kaffe"
+    },
+    "sidebar_reviews": {
+        "message": "Anmeldelser"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Hvis du kan lide det, overvej at støtte mig"
+    },
+    "sidebar_clear_browser": {
+        "message": "Ryd browserdata"
+    },
+    "sidebar_upgrade": {
+        "message": "Opgrader"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Funktionforslag"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Køb en kaffe til mig"
+    },
+    "sidebar_open_source": {
+        "message": "Open Source"
+    },
+    "clear_browser_title": {
+        "message": "RYD BROWSERDATA"
+    },
+    "clear_browser_description": {
+        "message": "Ryd alle browserdata med et enkelt klik."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Websteds appcache"
+    },
+    "clear_browser_option_cache": {
+        "message": "Browserens cache"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Cache-lager"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Cookies"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Browserens downloadliste"
+    },
+    "clear_browser_option_history": {
+        "message": "Browserhistorik"
+    },
+    "clear_browser_option_formData": {
+        "message": "Gemt formulardata"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Websteds filsystemer"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Websteds IndexedDB-data"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Websteds lokal lagerdata"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Websteds WebSQL-data"
+    },
+    "button_select_all": {
+        "message": "Vælg alle"
+    },
+    "button_remove_all": {
+        "message": "Fjern alle"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Hvilket tidsinterval vil du rydde data for?"
+    },
+    "choice_all_time": {
+        "message": "Al tid"
+    },
+    "choice_24h": {
+        "message": "Seneste 24 timer"
+    },
+    "choice_last_7days": {
+        "message": "Seneste 7 dage"
+    },
+    "choice_last_30days": {
+        "message": "Seneste 30 dage"
+    },
+    "button_clear_browser": {
+        "message": "Ryd browserdata"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "BEKRÆFT SLETNING AF BROWSERDATA"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Browserdata vil blive slettet og kan ikke gendannes."
+    },
+    "tooltip_top_action_share": {
+        "message": "Del"
+    },
+    "sidebar_link": {
+        "message": "Links"
+    },
+    "bottom_message_upgrade": {
+        "message": " Spar 25 %, når du opgraderer til et 1-års abonnement i dag!"
+    },
+    "about_title": {
+        "message": "Trần Đăng Khoa"
+    },
+    "about_content_1": {
+        "message": "Jeg er udvikler og elsker at lave Chrome-udvidelser. Jeg hjælper dig med at udvikle og markedsføre kommunikation på sociale medier."
+    },
+    "about_content_2": {
+        "message": " Du kan lære mere om mig og kontakte mig via følgende sociale medieplatforme."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Gratis"
+    },
+    "email": {
+        "message": "E-mail"
+    },
+    "created_at": {
+        "message": "Oprettet den"
+    },
+    "expiry_date": {
+        "message": "Udløbsdato"
+    },
+    "logout": {
+        "message": "Log ud"
+    },
+    "buy_coffee_content_1": {
+        "message": "Vedligeholdelse af software tager meget tid og mange sene nætter, især når jeg arbejder på det efter mit normale job."
+    },
+    "buy_coffee_content_2": {
+        "message": "Hvis du nyder mit arbejde og gerne vil vise din støtte, er der flere måder, du kan hjælpe på."
+    },
+    "no_support": {
+        "message": "Jeg ønsker ikke at støtte."
+    },
+    "feature_suggest_title": {
+        "message": "Hvilken funktion vil du gerne have tilføjet?"
+    },
+    "feature_suggest_description": {
+        "message": "Foreslå en vigtig funktion, hvis du gerne vil have, at vi udvikler den."
+    },
+    "fs_email_description": {
+        "message": "Indtast din e-mailadresse. Vi kan kontakte dig, hvis vi har brug for at afklare din anmodning. (valgfrit)"
+    },
+    "label_fs": {
+        "message": " Foreslå funktion"
+    },
+    "pl_fs_input": {
+        "message": "En funktion, du gerne vil have, at vi udvikler"
+    },
+    "payment_fs": {
+        "message": "Vil du være villig til at betale for den funktion?"
+    },
+    "button_loading": {
+        "message": "Indlæser ..."
+    },
+    "button_suggest": {
+        "message": "Foreslå"
+    },
+    "website": {
+        "message": "Websted"
+    },
+    "title": {
+        "message": "Titel"
+    },
+    "title_description": {
+        "message": " Et mindeværdigt navn til at identificere, hvilket websted cookien tilhører. (Påkrævet)"
+    },
+    "expiration_time": {
+        "message": "Udløbstid"
+    },
+    "msg_link_not_found": {
+        "message": "Dette link eksisterer ikke."
+    },
+    "msg_no_permission": {
+        "message": "Du har ikke de nødvendige tilladelser."
+    },
+    "msg_error": {
+        "message": "Der opstod en systemfejl."
+    },
+    "share_cookie_title": {
+        "message": "DEL COOKIE"
+    },
+    "share_cookie_description": {
+        "message": "Vil du dele cookien?"
+    },
+    "time_option_1h": {
+        "message": "1 time"
+    },
+    "exp_custom": {
+        "message": "Brugerdefineret"
+    },
+    "unlimited": {
+        "message": "Ubegrænset"
+    },
+    "type_option_exp_h": {
+        "message": "Timer"
+    },
+    "type_option_exp_d": {
+        "message": "Dage"
+    },
+    "type_option_exp_m": {
+        "message": "Måneder"
+    },
+    "type_option_exp_y": {
+        "message": "År"
+    },
+    "msg_title_empty": {
+        "message": "Titlen må ikke være tom."
+    },
+    "msg_password_empty": {
+        "message": "Adgangskoden må ikke være tom."
+    },
+    "msg_password_length": {
+        "message": "Adgangskoden skal være mindst 8 tegn lang."
+    },
+    "msg_share_error": {
+        "message": "Deling mislykkedes."
+    },
+    "password_encrypt": {
+        "message": "Adgangskode til dekryptering af cookies"
+    },
+    "password_encrypt_description": {
+        "message": "Indtast en adgangskode for at kryptere cookien, før du deler den. Det sikrer, at ikke engang vi kan læse indholdet uden adgangskoden. (Påkrævet)"
+    },
+    "link_exp": {
+        "message": "Linkets udløbstid"
+    },
+    "link_exp_description": {
+        "message": "Indtast udløbstiden for linket, hvis du vil dele det i en bestemt periode. Lad det stå tomt, hvis du ikke vil angive en udløbstid."
+    },
+    "public_link_cookie": {
+        "message": "Alle kan tilgå det link, du har delt."
+    },
+    "title_upgrade": {
+        "message": "Enkel prisstruktur"
+    },
+    "upgrade_description": {
+        "message": "Enkel og gennemsigtig prissætning med ubegrænset antal abonnenter. Skift plan eller annuller når som helst."
+    },
+    "btn_upgrade_month": {
+        "message": "Start fra ___price___/måned"
+    },
+    "btn_upgrade_year": {
+        "message": "Start fra ___price___/år"
+    },
+    "msg_upgrade": {
+        "message": "Få 25% rabat — betal kun ___sale___/år i stedet for ___price___"
+    },
+    "upgrade_fs_1": {
+        "message": "Cookiehåndtering"
+    },
+    "upgrade_fs_2": {
+        "message": "Kryptering og dekryptering"
+    },
+    "upgrade_fs_3": {
+        "message": " Del cookies"
+    },
+    "upgrade_fs_4": {
+        "message": " Ingen reklamer"
+    },
+    "upgrade_fs_5": {
+        "message": " Support"
+    },
+    "remind_login": {
+        "message": " Du skal oprette en konto, før du deler cookien via et link."
+    },
+    "remind_login_btn": {
+        "message": "Opret konto nu"
+    },
+    "remind_upgrade_title": {
+        "message": "Opgrader for at bruge denne funktion."
+    },
+    "remind_upgrade_description": {
+        "message": "Denne avancerede funktion er kun tilgængelig for betalende brugere. Opgrader nu for at få adgang."
+    },
+    "remind_upgrade_btn": {
+        "message": "Opgrader nu"
+    },
+    "msg_password_error": {
+        "message": "Dekrypteringsadgangskoden er forkert."
+    },
+    "msg_cookie_error": {
+        "message": "Ugyldig cookieinformation. Log venligst ind igen."
+    },
+    "msg_link_exp": {
+        "message": "Linket er udløbet."
+    },
+    "owner": {
+        "message": "Ejer"
+    },
+    "page_import_description": {
+        "message": "Du bruger cookie-importfunktionen via et delt link."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Fjern annoncer – Én gang ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Ingen flere annoncer nogensinde. Betal én gang, nyd det for evigt."
+    },
+    "str_convert_share_link": {
+        "message": "Vil du dele denne cookie med nogen?"
+    },
+    "cta_convert_share_link": {
+        "message": "Del via link i stedet"
+    },
+    "message_copy_link_success": {
+        "message": "Linket blev kopieret"
+    },
+    "message_copy_link_error": {
+        "message": "Kunne ikke kopiere linket"
+    },
+    "setting_title": {
+        "message": "BASISINDSTILLINGER"
+    },
+    "setting_description": {
+        "message": "Tilpas hvordan udvidelsen fungerer for dig."
+    },
+    "setting_confirm_dialog": {
+        "message": "BEKRÆFTELSESDIALOG"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Vis en bekræftelsesdialog, når du bruger udvidelsen"
+    },
+    "setting_dialog_copy": {
+        "message": "Vis en bekræftelsesdialog, når aktuelle cookies kopieres"
+    },
+    "setting_dialog_delete": {
+        "message": "Vis en bekræftelsesdialog, når aktuelle cookies slettes"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Vis en bekræftelsesdialog, når alle aktuelle cookies slettes"
+    },
+    "setting_enable_context_menus": {
+        "message": "Genveje i kontekstmenu"
+    }
+}

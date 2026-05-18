@@ -1,0 +1,539 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Zoek cookienaam"
+    },
+    "btn_copy": {
+        "message": "Kopiëren"
+    },
+    "btn_add": {
+        "message": "Toevoegen"
+    },
+    "btn_import": {
+        "message": "Importeren"
+    },
+    "btn_export": {
+        "message": "Exporteren"
+    },
+    "btn_remove": {
+        "message": "Alles wissen"
+    },
+    "msg_no_cookies": {
+        "message": "Geen cookies."
+    },
+    "btn_delete": {
+        "message": "Verwijderen"
+    },
+    "btn_cancel": {
+        "message": "Annuleren"
+    },
+    "btn_edit": {
+        "message": "Bewerken"
+    },
+    "title_delete": {
+        "message": "Wilt u alle cookies van deze website verwijderen?"
+    },
+    "title_import": {
+        "message": "Probeert u cookies te importeren?"
+    },
+    "msg_import_error": {
+        "message": "Importeren van cookies mislukt."
+    },
+    "pl_password": {
+        "message": "Wachtwoord om cookies te versleutelen/ontsleutelen"
+    },
+    "title_export": {
+        "message": "Probeert u cookies te exporteren?"
+    },
+    "display_setting_title": {
+        "message": "WEERGAVE-INSTELLINGEN"
+    },
+    "display_setting_description": {
+        "message": "Weergave-instellingen voor het bekijken van cookies"
+    },
+    "display_setting_option_default": {
+        "message": "Standaardmodus"
+    },
+    "display_setting_option_compact": {
+        "message": "Compacte modus"
+    },
+    "display_setting_option_custom": {
+        "message": "Aangepaste modus"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Cookieweergave aanpassen"
+    },
+    "copy_setting_title": {
+        "message": "KOPIEERINSTELLINGEN"
+    },
+    "copy_setting_description": {
+        "message": "Standaardformaat bij het kopiëren van cookies"
+    },
+    "export_setting_title": {
+        "message": "EXPORTINSTELLINGEN"
+    },
+    "export_setting_description": {
+        "message": "Standaardformaat bij het exporteren van cookies"
+    },
+    "import_setting_title": {
+        "message": "IMPORTINSTELLINGEN"
+    },
+    "import_setting_description": {
+        "message": "Opties voor cookie-importinstellingen"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Webpagina opnieuw laden na importeren"
+    },
+    "import_setting_format": {
+        "message": "Standaard importoptie"
+    },
+    "import_setting_format_text": {
+        "message": "Tekst gebruiken"
+    },
+    "import_setting_format_file": {
+        "message": "Een bestand gebruiken"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopiëren gelukt"
+    },
+    "no_cookie_description": {
+        "message": "De website heeft geen cookies."
+    },
+    "sidebar_setting": {
+        "message": "Instellingen"
+    },
+    "sidebar_export": {
+        "message": "Exporteren"
+    },
+    "sidebar_import": {
+        "message": "Importeren"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie toevoegen gelukt"
+    },
+    "alert_add_cookie_error": {
+        "message": "Cookie toevoegen mislukt"
+    },
+    "title_add_cookie": {
+        "message": "COOKIE TOEVOEGEN"
+    },
+    "description_add_cookie": {
+        "message": "Wilt u de cookie toevoegen?"
+    },
+    "title_clear_cookie": {
+        "message": "COOKIES WISSEN"
+    },
+    "description_clear_cookie": {
+        "message": "Wilt u alle cookies van deze website verwijderen?"
+    },
+    "title_copy_cookie": {
+        "message": "COOKIE KOPIËREN"
+    },
+    "description_copy_cookie": {
+        "message": "In welk formaat wilt u de cookie kopiëren?"
+    },
+    "str_example": {
+        "message": "Voorbeeld"
+    },
+    "title_delete_cookie": {
+        "message": "COOKIE VERWIJDEREN"
+    },
+    "description_delete_cookie": {
+        "message": "Wilt u de cookie verwijderen?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie verwijderen gelukt"
+    },
+    "title_edit_cookie": {
+        "message": "COOKIE BEWERKEN"
+    },
+    "description_edit_cooke": {
+        "message": "Wilt u de cookie bewerken?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie bewerken gelukt"
+    },
+    "title_export_cookie": {
+        "message": "COOKIE EXPORTEREN"
+    },
+    "description_export_cookie": {
+        "message":  "In welk formaat wilt u de cookie exporteren?"
+    },
+    "label_password_encrypt": {
+        "message": "Wachtwoord om cookies te versleutelen"
+    },
+    "description_password": {
+        "message": "Voer een wachtwoord in als u de cookie wilt versleutelen voordat u exporteert (optioneel)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Cookies importeren gelukt"
+    },
+    "alert_import_cookie_error": {
+        "message": "Cookies importeren mislukt"
+    },
+    "title_import_cookie": {
+        "message": "COOKIES IMPORTEREN"
+    },
+    "description_import_cookie": {
+        "message": "Hoe wilt u importeren?"
+    },
+    "label_select_file_import": {
+        "message": "Selecteer een bestand om te importeren"
+    },
+    "lable_link_import": {
+        "message": "Link om cookies te importeren"
+    },
+    "label_password_decrypt": {
+        "message": "Wachtwoord om cookies te ontsleutelen"
+    },
+    "description_password_decrypt": {
+        "message": "Voer het ontsleutelingswachtwoord in als de cookies zijn beveiligd met versleuteling (optioneel)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Koop me een koffie"
+    },
+    "sidebar_reviews": {
+        "message": "Recensies"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Als je het leuk vindt, overweeg me te steunen"
+    },
+    "sidebar_clear_browser": {
+        "message": "Browsergegevens wissen"
+    },
+    "sidebar_upgrade": {
+        "message": "Upgrade"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Functie-suggestie"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Trakteer mij op een kopje koffie"
+    },
+    "sidebar_open_source": {
+        "message": "Open Source"
+    },
+    "clear_browser_title": {
+        "message": "BROWSERGEGEVENS WISSEN"
+    },
+    "clear_browser_description": {
+        "message": "Wis alle browsegegevens met één klik."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Appcache van websites"
+    },
+    "clear_browser_option_cache": {
+        "message": "Browsercache"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Cache-opslag"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Cookies"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Downloadlijst"
+    },
+    "clear_browser_option_history": {
+        "message": "Browsegeschiedenis"
+    },
+    "clear_browser_option_formData": {
+        "message": "Opgeslagen formuliergegevens"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Bestandssystemen van websites"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB-gegevens van websites"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "localStorage-gegevens van websites"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL-gegevens van websites"
+    },
+    "button_select_all": {
+        "message": "Alles selecteren"
+    },
+    "button_remove_all": {
+        "message": "Alles verwijderen"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Voor welke periode wilt u gegevens verwijderen?"
+    },
+    "choice_all_time": {
+        "message": "Alle tijden"
+    },
+    "choice_24h": {
+        "message": "Laatste 24 uur"
+    },
+    "choice_last_7days": {
+        "message": "Laatste 7 dagen"
+    },
+    "choice_last_30days": {
+        "message": "Laatste 30 dagen"
+    },
+    "button_clear_browser": {
+        "message": "Gegevens wissen"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "BEVESTIG GEGEVENSVERWIJDERING"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Browsergegevens worden verwijderd en kunnen niet worden hersteld."
+    },
+    "tooltip_top_action_share": {
+        "message": "Delen"
+    },
+    "sidebar_link": {
+        "message": "Links"
+    },
+    "bottom_message_upgrade": {
+        "message": "Profiteer vandaag nog van 25% korting bij een upgrade naar een jaarabonnement!"
+    },
+    "about_title": {
+        "message": "Trần Đăng Khoa"
+    },
+    "about_content_1": {
+        "message": "Ik ben een ontwikkelaar en ik maak graag Chrome-extensies. Ik help bij het ontwikkelen en promoten van communicatie via sociale media."
+    },
+    "about_content_2": {
+        "message": "Meer over mij en contactinformatie vind je via de onderstaande sociale platforms."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Gratis"
+    },
+    "email": {
+        "message": "E-mail"
+    },
+    "created_at": {
+        "message": "Aangemaakt op"
+    },
+    "expiry_date": {
+        "message": "Verloopdatum"
+    },
+    "logout": {
+        "message": "Afmelden"
+    },
+    "buy_coffee_content_1": {
+        "message": "Softwareonderhoud kost veel tijd en slapeloze nachten, vooral als ik er na mijn werk aan werk."
+    },
+    "buy_coffee_content_2": {
+        "message": "Als je waardeert wat ik doe en mij wilt steunen, zijn er verschillende manieren waarop je dat kunt doen."
+    },
+    "no_support": {
+        "message": "Ik wil niet steunen."
+    },
+    "feature_suggest_title": {
+        "message": "Welke functie zou je graag toegevoegd zien?"
+    },
+    "feature_suggest_description": {
+        "message": "Stuur een suggestie voor een nuttige functie die je graag ontwikkeld zou zien."
+    },
+    "fs_email_description": {
+        "message": "Voer je e-mailadres in. We kunnen contact opnemen als we iets willen verduidelijken. (optioneel)"
+    },
+    "label_fs": {
+        "message": " Functie-suggestie"
+    },
+    "pl_fs_input": {
+        "message": "Een functie die je graag ontwikkeld zou zien"
+    },
+    "payment_fs": {
+        "message": "Zou je bereid zijn hiervoor te betalen?"
+    },
+    "button_loading": {
+        "message": "Bezig met laden..."
+    },
+    "button_suggest": {
+        "message": "Suggestie indienen"
+    },
+    "website": {
+        "message": "Website"
+    },
+    "title": {
+        "message": "Titel"
+    },
+    "title_description": {
+        "message": "Een memorabele naam die helpt te identificeren bij welke website deze cookie-link hoort. (Vereist)"
+    },
+    "expiration_time": {
+        "message": "Vervaldatum"
+    },
+    "msg_link_not_found": {
+        "message": "Deze link bestaat niet."
+    },
+    "msg_no_permission": {
+        "message": "Je hebt niet de benodigde rechten."
+    },
+    "msg_error": {
+        "message": "Er is een systeemfout opgetreden."
+    },
+    "share_cookie_title": {
+        "message": "COOKIE DELEN"
+    },
+    "share_cookie_description": {
+        "message": "Wil je deze cookie delen?"
+    },
+    "time_option_1h": {
+        "message": "1 uur"
+    },
+    "exp_custom": {
+        "message": "Aangepast"
+    },
+    "unlimited": {
+        "message": "Onbeperkt"
+    },
+    "type_option_exp_h": {
+        "message": "Uren"
+    },
+    "type_option_exp_d": {
+        "message": "Dagen"
+    },
+    "type_option_exp_m": {
+        "message": "Maanden"
+    },
+    "type_option_exp_y": {
+        "message": "Jaren"
+    },
+    "msg_title_empty": {
+        "message": "Titel mag niet leeg zijn."
+    },
+    "msg_password_empty": {
+        "message": "Wachtwoord mag niet leeg zijn."
+    },
+    "msg_password_length": {
+        "message": "Wachtwoord moet minimaal 8 tekens bevatten."
+    },
+    "msg_share_error": {
+        "message": "Delen is mislukt."
+    },
+    "password_encrypt": {
+        "message": "Wachtwoord om cookie te ontsleutelen"
+    },
+    "password_encrypt_description": {
+        "message": "Voer een wachtwoord in om de cookie te versleutelen voordat je deelt. Zo kunnen zelfs wij de inhoud niet zien zonder wachtwoord. (Vereist)"
+    },
+    "link_exp": {
+        "message": "Link vervalt op"
+    },
+    "link_exp_description": {
+        "message": "Geef een vervaldatum als je de link slechts tijdelijk wilt delen. Laat leeg voor geen vervaldatum."
+    },
+    "public_link_cookie": {
+        "message": "Iedereen kan toegang krijgen tot de gedeelde link."
+    },
+    "title_upgrade": {
+        "message": "Eenvoudige prijsstelling"
+    },
+    "upgrade_description": {
+        "message": "Eenvoudige, transparante prijzen met onbeperkt aantal abonnees. Wissel plannen of zeg op wanneer je wilt."
+    },
+    "btn_upgrade_month": {
+        "message": "Vanaf ___price___/maand"
+    },
+    "btn_upgrade_year": {
+        "message": "Vanaf ___price___/jaar"
+    },
+    "msg_upgrade": {
+        "message": "Ontvang 25% korting — betaal slechts ___sale___/jaar in plaats van ___price___"
+    },
+    "upgrade_fs_1": {
+        "message": "Cookiebeheer"
+    },
+    "upgrade_fs_2": {
+        "message": "Encryptie en decryptie"
+    },
+    "upgrade_fs_3": {
+        "message": " Cookie delen"
+    },
+    "upgrade_fs_4": {
+        "message": " Geen advertenties"
+    },
+    "upgrade_fs_5": {
+        "message": " Ondersteuning"
+    },
+    "remind_login": {
+        "message": "Je moet een account hebben voordat je een cookie via link deelt."
+    },
+    "remind_login_btn": {
+        "message": "Registreer nu"
+    },
+    "remind_upgrade_title": {
+        "message": "Upgrade om deze functie te gebruiken."
+    },
+    "remind_upgrade_description": {
+        "message": "Deze geavanceerde functie is alleen beschikbaar voor betaalde accounts. Upgrade nu voor toegang."
+    },
+    "remind_upgrade_btn": {
+        "message": "Upgraden"
+    },
+    "msg_password_error": {
+        "message": "Ongeldig wachtwoord."
+    },
+    "msg_cookie_error": {
+        "message": "Ongeldige cookiegegevens. Log opnieuw in."
+    },
+    "msg_link_exp": {
+        "message": "De link is verlopen."
+    },
+    "owner": {
+        "message": "Eigenaar"
+    },
+    "page_import_description": {
+        "message": "Je gebruikt de functie voor cookie-import via gedeelde link."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Advertenties verwijderen – Eenmalig ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Nooit meer advertenties. Betaal één keer, geniet voor altijd."
+    },
+    "str_convert_share_link": {
+        "message": "Wil je dit cookie met iemand delen?"
+    },
+    "cta_convert_share_link": {
+        "message": "Deel in plaats daarvan via een link"
+    },
+    "message_copy_link_success": {
+        "message": "Link succesvol gekopieerd"
+    },
+    "message_copy_link_error": {
+        "message": "Link kopiëren mislukt"
+    },
+    "setting_title": {
+        "message": "BASISINSTELLINGEN"
+    },
+    "setting_description": {
+        "message": "Pas aan hoe de extensie voor u werkt"
+    },
+    "setting_confirm_dialog": {
+        "message": "BEVESTIGINGSVENSTER"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Toon bevestigingsvenster bij gebruik van de extensie"
+    },
+    "setting_dialog_copy": {
+        "message": "Toon bevestigingsvenster bij kopiëren van huidige cookies"
+    },
+    "setting_dialog_delete": {
+        "message": "Toon bevestigingsvenster bij verwijderen van huidige cookies"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Toon bevestigingsvenster bij verwijderen van alle huidige cookies"
+    },
+    "setting_enable_context_menus": {
+        "message": "Contextmenu-opties"
+    }
+}

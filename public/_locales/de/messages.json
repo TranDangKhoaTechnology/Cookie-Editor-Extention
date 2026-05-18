@@ -1,0 +1,539 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Cookiename suchen"
+    },
+    "btn_copy": {
+        "message": "Kopieren"
+    },
+    "btn_add": {
+        "message": "Hinzufügen"
+    },
+    "btn_import": {
+        "message": "Importieren"
+    },
+    "btn_export": {
+        "message": "Exportieren"
+    },
+    "btn_remove": {
+        "message": "Alle löschen"
+    },
+    "msg_no_cookies": {
+        "message": "Keine Cookies."
+    },
+    "btn_delete": {
+        "message": "Löschen"
+    },
+    "btn_cancel": {
+        "message": "Abbrechen"
+    },
+    "btn_edit": {
+        "message": "Bearbeiten"
+    },
+    "title_delete": {
+        "message": "Möchten Sie alle Cookies dieser Website entfernen?"
+    },
+    "title_import": {
+        "message": "Versuchen Sie, Cookies zu importieren?"
+    },
+    "msg_import_error": {
+        "message": "Import der Cookies fehlgeschlagen."
+    },
+    "pl_password": {
+        "message": "Passwort zum Verschlüsseln/Entschlüsseln von Cookies"
+    },
+    "title_export": {
+        "message": "Versuchen Sie, Cookies zu exportieren?"
+    },
+    "display_setting_title": {
+        "message": "ANZEIGEEINSTELLUNGEN"
+    },
+    "display_setting_description": {
+        "message": "Einstellungen für den Anzeigemodus zur Ansicht von Cookies"
+    },
+    "display_setting_option_default": {
+        "message": "Standardmodus"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompaktmodus"
+    },
+    "display_setting_option_custom": {
+        "message": "Benutzerdefinierter Modus"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Anzeige von Cookies anpassen"
+    },
+    "copy_setting_title": {
+        "message": "KOPIEREINSTELLUNGEN"
+    },
+    "copy_setting_description": {
+        "message": "Standardformat beim Kopieren von Cookies"
+    },
+    "export_setting_title": {
+        "message": "EXPORTEINSTELLUNGEN"
+    },
+    "export_setting_description": {
+        "message": "Standardformat beim Exportieren von Cookies"
+    },
+    "import_setting_title": {
+        "message": "IMPORTEINSTELLUNGEN"
+    },
+    "import_setting_description": {
+        "message": "Optionen für die Cookie-Importeinstellungen"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Seite nach dem Import neu laden"
+    },
+    "import_setting_format": {
+        "message": "Standardimportoption"
+    },
+    "import_setting_format_text": {
+        "message": "Text verwenden"
+    },
+    "import_setting_format_file": {
+        "message": "Datei verwenden"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopieren erfolgreich"
+    },
+    "no_cookie_description": {
+        "message": "Die Website hat keine Cookies."
+    },
+    "sidebar_setting": {
+        "message": "Einstellungen"
+    },
+    "sidebar_export": {
+        "message": "Exportieren"
+    },
+    "sidebar_import": {
+        "message": "Importieren"
+    },
+    "alert_add_cookie_success": {
+        "message": "Cookie erfolgreich hinzugefügt"
+    },
+    "alert_add_cookie_error": {
+        "message": "Fehler beim Hinzufügen des Cookies"
+    },
+    "title_add_cookie": {
+        "message": "COOKIE HINZUFÜGEN"
+    },
+    "description_add_cookie": {
+        "message": "Möchten Sie den Cookie hinzufügen?"
+    },
+    "title_clear_cookie": {
+        "message": "COOKIES LÖSCHEN"
+    },
+    "description_clear_cookie": {
+        "message": "Möchten Sie alle Cookies dieser Website entfernen?"
+    },
+    "title_copy_cookie": {
+        "message": "COOKIE KOPIEREN"
+    },
+    "description_copy_cookie": {
+        "message": "In welchem Format möchten Sie den Cookie kopieren?"
+    },
+    "str_example": {
+        "message": "Beispiel"
+    },
+    "title_delete_cookie": {
+        "message": "COOKIE LÖSCHEN"
+    },
+    "description_delete_cookie": {
+        "message": "Möchten Sie den Cookie löschen?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Cookie erfolgreich gelöscht"
+    },
+    "title_edit_cookie": {
+        "message": "COOKIE BEARBEITEN"
+    },
+    "description_edit_cooke": {
+        "message": "Möchten Sie den Cookie bearbeiten?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Cookie erfolgreich bearbeitet"
+    },
+    "title_export_cookie": {
+        "message": "COOKIE EXPORTIEREN"
+    },
+    "description_export_cookie": {
+        "message": "In welchem Format möchten Sie den Cookie exportieren?"
+    },
+    "label_password_encrypt": {
+        "message": "Passwort zum Verschlüsseln von Cookies"
+    },
+    "description_password": {
+        "message": "Geben Sie ein Passwort ein, wenn der Cookie vor dem Export verschlüsselt werden soll (optional)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Cookies erfolgreich importiert"
+    },
+    "alert_import_cookie_error": {
+        "message": "Fehler beim Importieren der Cookies"
+    },
+    "title_import_cookie": {
+        "message": "COOKIES IMPORTIEREN"
+    },
+    "description_import_cookie": {
+        "message": "Wie möchten Sie importieren?"
+    },
+    "label_select_file_import": {
+        "message": "Datei zum Importieren auswählen"
+    },
+    "lable_link_import": {
+        "message": "Link zum Importieren von Cookies"
+    },
+    "label_password_decrypt": {
+        "message": "Passwort zum Entschlüsseln von Cookies"
+    },
+    "description_password_decrypt": {
+        "message": "Geben Sie das Entschlüsselungspasswort ein, wenn die Cookies durch Verschlüsselung geschützt sind (optional)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Kauf mir einen Kaffee"
+    },
+    "sidebar_reviews": {
+        "message": "Bewertungen"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Wenn es dir gefällt, erwäge, mich zu unterstützen"
+    },
+    "sidebar_clear_browser": {
+        "message": "Browserdaten löschen"
+    },
+    "sidebar_upgrade": {
+        "message": "Upgrade"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Funktionsvorschlag"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Spendiere mir einen Kaffee"
+    },
+    "sidebar_open_source": {
+        "message": "Open Source"
+    },
+    "clear_browser_title": {
+        "message": "BROWSERDATEN LÖSCHEN"
+    },
+    "clear_browser_description": {
+        "message": "Lösche alle Browserdaten mit nur einem Klick."
+    },
+    "clear_browser_option_appcache": {
+        "message": "App-Cache der Website"
+    },
+    "clear_browser_option_cache": {
+        "message": "Cache des Browsers"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Cache-Speicher"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Cookies"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Downloadliste des Browsers"
+    },
+    "clear_browser_option_history": {
+        "message": "Browserverlauf"
+    },
+    "clear_browser_option_formData": {
+        "message": "Gespeicherte Formulardaten"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Dateisysteme von Websites"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB-Daten der Websites"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Lokale Speicher-Daten der Websites"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workers"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL-Daten der Websites"
+    },
+    "button_select_all": {
+        "message": "Alle auswählen"
+    },
+    "button_remove_all": {
+        "message": "Alle entfernen"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Für welchen Zeitraum sollen die Daten gelöscht werden?"
+    },
+    "choice_all_time": {
+        "message": "Gesamte Zeit"
+    },
+    "choice_24h": {
+        "message": "Letzte 24 Stunden"
+    },
+    "choice_last_7days": {
+        "message": "Letzte 7 Tage"
+    },
+    "choice_last_30days": {
+        "message": "Letzte 30 Tage"
+    },
+    "button_clear_browser": {
+        "message": "Browserdaten löschen"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "BROWSERDATEN LÖSCHEN BESTÄTIGEN"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Browserdaten werden gelöscht und können nicht wiederhergestellt werden."
+    },
+    "tooltip_top_action_share": {
+        "message": "Teilen"
+    },
+    "sidebar_link": {
+        "message": "Links"
+    },
+    "bottom_message_upgrade": {
+        "message": " Spare 25 %, wenn du heute auf den Jahresplan upgradest!"
+    },
+    "about_title": {
+        "message": "Trần Đăng Khoa"
+    },
+    "about_content_1": {
+        "message": "Ich bin Entwickler und liebe es, Chrome-Erweiterungen zu erstellen. Ich helfe dir bei der Entwicklung und Vermarktung von Social Media-Kommunikation."
+    },
+    "about_content_2": {
+        "message": " Du kannst mehr über mich erfahren und mich über folgende Social Media Plattformen kontaktieren."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Kostenlos"
+    },
+    "email": {
+        "message": "E-Mail"
+    },
+    "created_at": {
+        "message": "Erstellt am"
+    },
+    "expiry_date": {
+        "message": "Ablaufdatum"
+    },
+    "logout": {
+        "message": "Abmelden"
+    },
+    "buy_coffee_content_1": {
+        "message": "Die Wartung der Software nimmt viel Zeit in Anspruch und bedeutet viele lange Nächte, besonders wenn ich nach meinem regulären Job daran arbeite."
+    },
+    "buy_coffee_content_2": {
+        "message": "Wenn dir meine Arbeit gefällt und du deine Wertschätzung zeigen möchtest, gibt es mehrere Möglichkeiten, mich zu unterstützen."
+    },
+    "no_support": {
+        "message": "Ich möchte nicht unterstützen."
+    },
+    "feature_suggest_title": {
+        "message": "Welche Funktion möchtest du hinzufügen?"
+    },
+    "feature_suggest_description": {
+        "message": "Schlage eine notwendige Funktion vor, wenn du möchtest, dass wir sie weiterentwickeln."
+    },
+    "fs_email_description": {
+        "message": "Gib deine E-Mail-Adresse ein. Wir kontaktieren dich eventuell bei Rückfragen. (optional)"
+    },
+    "label_fs": {
+        "message": " Funktion vorschlagen"
+    },
+    "pl_fs_input": {
+        "message": "Eine Funktion, die du als Nächstes möchtest"
+    },
+    "payment_fs": {
+        "message": "Wärst du bereit, für diese Funktion zu zahlen?"
+    },
+    "button_loading": {
+        "message": "Lädt ..."
+    },
+    "button_suggest": {
+        "message": "Vorschlagen"
+    },
+    "website": {
+        "message": "Webseite"
+    },
+    "title": {
+        "message": "Titel"
+    },
+    "title_description": {
+        "message": " Ein einprägsamer Name, um zu erkennen, zu welcher Website der Cookie-Link gehört. (Erforderlich)"
+    },
+    "expiration_time": {
+        "message": "Ablaufzeit"
+    },
+    "msg_link_not_found": {
+        "message": "Dieser Link existiert nicht."
+    },
+    "msg_no_permission": {
+        "message": "Du hast keine Berechtigung."
+    },
+    "msg_error": {
+        "message": "Ein Systemfehler ist aufgetreten."
+    },
+    "share_cookie_title": {
+        "message": "COOKIE TEILEN"
+    },
+    "share_cookie_description": {
+        "message": "Möchtest du den Cookie teilen?"
+    },
+    "time_option_1h": {
+        "message": "1 Stunde"
+    },
+    "exp_custom": {
+        "message": "Benutzerdefiniert"
+    },
+    "unlimited": {
+        "message": "Unbegrenzt"
+    },
+    "type_option_exp_h": {
+        "message": "Stunden"
+    },
+    "type_option_exp_d": {
+        "message": "Tage"
+    },
+    "type_option_exp_m": {
+        "message": "Monate"
+    },
+    "type_option_exp_y": {
+        "message": "Jahre"
+    },
+    "msg_title_empty": {
+        "message": "Titel darf nicht leer sein."
+    },
+    "msg_password_empty": {
+        "message": "Passwort darf nicht leer sein."
+    },
+    "msg_password_length": {
+        "message": "Das Passwort muss mindestens 8 Zeichen lang sein."
+    },
+    "msg_share_error": {
+        "message": "Freigabe fehlgeschlagen."
+    },
+    "password_encrypt": {
+        "message": "Passwort zum Entschlüsseln der Cookies"
+    },
+    "password_encrypt_description": {
+        "message": "Gib ein Passwort ein, um den Cookie vor dem Teilen zu verschlüsseln. Dadurch wird sichergestellt, dass auch wir den Inhalt nicht ohne Passwort lesen können. (Erforderlich)"
+    },
+    "link_exp": {
+        "message": "Ablaufzeit des Links"
+    },
+    "link_exp_description": {
+        "message": "Gib die Ablaufzeit des Links ein, wenn du ihn nur für einen bestimmten Zeitraum teilen möchtest. Lass das Feld leer, wenn kein Ablaufzeitpunkt festgelegt werden soll."
+    },
+    "public_link_cookie": {
+        "message": "Jeder kann auf den von dir geteilten Link zugreifen."
+    },
+    "title_upgrade": {
+        "message": "Einfache Preisgestaltung"
+    },
+    "upgrade_description": {
+        "message": "Einfache, transparente Preisgestaltung mit unbegrenzten Abonnenten. Wechsle jederzeit den Plan oder kündige ihn."
+    },
+    "btn_upgrade_month": {
+        "message": "Ab ___price___/Monat"
+    },
+    "btn_upgrade_year": {
+        "message": "Ab ___price___/Jahr"
+    },
+    "msg_upgrade": {
+        "message": "Erhalten Sie 25 % Rabatt – zahlen Sie nur ___sale___/Jahr statt ___price___"
+    },
+    "upgrade_fs_1": {
+        "message": "Cookie-Verwaltung"
+    },
+    "upgrade_fs_2": {
+        "message": "Verschlüsselung und Entschlüsselung"
+    },
+    "upgrade_fs_3": {
+        "message": " Cookies teilen"
+    },
+    "upgrade_fs_4": {
+        "message": " Keine Werbung"
+    },
+    "upgrade_fs_5": {
+        "message": " Support"
+    },
+    "remind_login": {
+        "message": " Du musst ein Konto erstellen, bevor du Cookies über einen Link teilen kannst."
+    },
+    "remind_login_btn": {
+        "message": "Jetzt registrieren"
+    },
+    "remind_upgrade_title": {
+        "message": "Bitte aktualisiere, um diese Funktion zu nutzen."
+    },
+    "remind_upgrade_description": {
+        "message": "Diese erweiterte Funktion ist nur für zahlende Konten verfügbar. Upgrade jetzt, um Zugriff zu erhalten."
+    },
+    "remind_upgrade_btn": {
+        "message": "Jetzt upgraden"
+    },
+    "msg_password_error": {
+        "message": "Das Entschlüsselungs-Passwort ist falsch."
+    },
+    "msg_cookie_error": {
+        "message": "Ungültige Cookie-Information. Bitte erneut einloggen."
+    },
+    "msg_link_exp": {
+        "message": "Der Link ist abgelaufen."
+    },
+    "owner": {
+        "message": "Besitzer"
+    },
+    "page_import_description": {
+        "message": "Du verwendest die Cookie-Importfunktion über einen geteilten Link."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Werbung entfernen – Einmalig ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Nie wieder Werbung. Einmal zahlen, für immer genießen."
+    },
+    "str_convert_share_link": {
+        "message": "Möchtest du dieses Cookie mit jemandem teilen?"
+    },
+    "cta_convert_share_link": {
+        "message": "Stattdessen per Link teilen"
+    },
+    "message_copy_link_success": {
+        "message": "Link wurde erfolgreich kopiert"
+    },
+    "message_copy_link_error": {
+        "message": "Link konnte nicht kopiert werden"
+    },
+    "setting_title": {
+        "message": "GRUNDEINSTELLUNGEN"
+    },
+    "setting_description": {
+        "message": "Passen Sie an, wie die Erweiterung für Sie funktioniert."
+    },
+    "setting_confirm_dialog": {
+        "message": "BESTÄTIGUNGSFENSTER"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Bestätigungsdialog anzeigen, wenn die Erweiterung verwendet wird"
+    },
+    "setting_dialog_copy": {
+        "message": "Bestätigungsdialog anzeigen beim Kopieren der aktuellen Cookies"
+    },
+    "setting_dialog_delete": {
+        "message": "Bestätigungsdialog anzeigen beim Löschen der aktuellen Cookies"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Bestätigungsdialog anzeigen beim Löschen aller aktuellen Cookies"
+    },
+    "setting_enable_context_menus": {
+        "message": "Optionen im Kontextmenü"
+    }
+}

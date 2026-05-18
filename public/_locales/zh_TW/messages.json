@@ -1,0 +1,539 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "搜尋 Cookie 名稱"
+    },
+    "btn_copy": {
+        "message": "複製"
+    },
+    "btn_add": {
+        "message": "新增"
+    },
+    "btn_import": {
+        "message": "匯入"
+    },
+    "btn_export": {
+        "message": "匯出"
+    },
+    "btn_remove": {
+        "message": "清除全部"
+    },
+    "msg_no_cookies": {
+        "message": "沒有 Cookie。"
+    },
+    "btn_delete": {
+        "message": "刪除"
+    },
+    "btn_cancel": {
+        "message": "取消"
+    },
+    "btn_edit": {
+        "message": "編輯"
+    },
+    "title_delete": {
+        "message": "您要刪除此網站的所有 Cookie 嗎？"
+    },
+    "title_import": {
+        "message": "您要匯入 Cookie 嗎？"
+    },
+    "msg_import_error": {
+        "message": "匯入 Cookie 失敗。"
+    },
+    "pl_password": {
+        "message": "用於加密/解密 Cookie 的密碼"
+    },
+    "title_export": {
+        "message": "您要匯出 Cookie 嗎？"
+    },
+    "display_setting_title": {
+        "message": "顯示設定"
+    },
+    "display_setting_description": {
+        "message": "檢視 Cookie 的顯示模式設定"
+    },
+    "display_setting_option_default": {
+        "message": "預設模式"
+    },
+    "display_setting_option_compact": {
+        "message": "精簡模式"
+    },
+    "display_setting_option_custom": {
+        "message": "自訂模式"
+    },
+    "setting_customize_display_cookie": {
+        "message": "自訂 Cookie 顯示"
+    },
+    "copy_setting_title": {
+        "message": "複製設定"
+    },
+    "copy_setting_description": {
+        "message": "複製 Cookie 時的預設格式"
+    },
+    "export_setting_title": {
+        "message": "匯出設定"
+    },
+    "export_setting_description": {
+        "message": "匯出 Cookie 時的預設格式"
+    },
+    "import_setting_title": {
+        "message": "匯入設定"
+    },
+    "import_setting_description": {
+        "message": "Cookie 匯入設定選項"
+    },
+    "import_setting_option_reload_page": {
+        "message": "匯入後重新載入網頁"
+    },
+    "import_setting_format": {
+        "message": "預設匯入選項"
+    },
+    "import_setting_format_text": {
+        "message": "使用文字"
+    },
+    "import_setting_format_file": {
+        "message": "使用檔案"
+    },
+    "alert_copy_cookie_success": {
+        "message": "複製成功"
+    },
+    "no_cookie_description": {
+        "message": "此網站沒有 Cookie。"
+    },
+    "sidebar_setting": {
+        "message": "設定"
+    },
+    "sidebar_export": {
+        "message": "匯出"
+    },
+    "sidebar_import": {
+        "message": "匯入"
+    },
+    "alert_add_cookie_success": {
+        "message": "新增 Cookie 成功"
+    },
+    "alert_add_cookie_error": {
+        "message": "新增 Cookie 失敗"
+    },
+    "title_add_cookie": {
+        "message": "新增 Cookie"
+    },
+    "description_add_cookie": {
+        "message": "您要新增 Cookie 嗎？"
+    },
+    "title_clear_cookie": {
+        "message": "清除 Cookie"
+    },
+    "description_clear_cookie": {
+        "message": "您要刪除此網站的所有 Cookie 嗎？"
+    },
+    "title_copy_cookie": {
+        "message": "複製 Cookie"
+    },
+    "description_copy_cookie": {
+        "message": "您希望以哪種格式複製 Cookie？"
+    },
+    "str_example": {
+        "message": "範例"
+    },
+    "title_delete_cookie": {
+        "message": "刪除 Cookie"
+    },
+    "description_delete_cookie": {
+        "message": "您要刪除 Cookie 嗎？"
+    },
+    "alert_delete_cookie_success": {
+        "message": "刪除 Cookie 成功"
+    },
+    "title_edit_cookie": {
+        "message": "編輯 Cookie"
+    },
+    "description_edit_cooke": {
+        "message": "您要編輯 Cookie 嗎？"
+    },
+    "alert_edit_cookie_success": {
+        "message": "編輯 Cookie 成功"
+    },
+    "title_export_cookie": {
+        "message": "匯出 Cookie"
+    },
+    "description_export_cookie": {
+        "message": "您希望以哪種格式匯出 Cookie？"
+    },
+    "label_password_encrypt": {
+        "message": "用於加密 Cookie 的密碼"
+    },
+    "description_password": {
+        "message": "如果您希望在匯出前加密 Cookie，請輸入密碼（可選）。"
+    },
+    "alert_import_cookie_success": {
+        "message": "匯入 Cookie 成功"
+    },
+    "alert_import_cookie_error": {
+        "message": "匯入 Cookie 失敗"
+    },
+    "title_import_cookie": {
+        "message": "匯入 Cookie"
+    },
+    "description_import_cookie": {
+        "message": "您希望如何匯入？"
+    },
+    "label_select_file_import": {
+        "message": "選擇要匯入的檔案"
+    },
+    "lable_link_import": {
+        "message": "匯入 Cookie 的連結"
+    },
+    "label_password_decrypt": {
+        "message": "用於解密 Cookie 的密碼"
+    },
+    "description_password_decrypt": {
+        "message": "如果 Cookie 受加密保護，請輸入解密密碼（可選）。"
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "請我喝杯咖啡"
+    },
+    "sidebar_reviews": {
+        "message": "評論"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "如果你喜歡，請考慮支持我"
+    },
+    "sidebar_clear_browser": {
+        "message": "清除瀏覽器資料"
+    },
+    "sidebar_upgrade": {
+        "message": "升級"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "功能建議"
+    },
+    "sidebar_buy_coffee": {
+        "message": "請我喝杯咖啡"
+    },
+    "sidebar_open_source": {
+        "message": "開放原始碼"
+    },
+    "clear_browser_title": {
+        "message": "清除瀏覽器資料"
+    },
+    "clear_browser_description": {
+        "message": "一鍵清除所有瀏覽資料。"
+    },
+    "clear_browser_option_appcache": {
+        "message": "網站 AppCache"
+    },
+    "clear_browser_option_cache": {
+        "message": "瀏覽器快取"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "快取儲存"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Cookie"
+    },
+    "clear_browser_option_downloads": {
+        "message": "下載清單"
+    },
+    "clear_browser_option_history": {
+        "message": "瀏覽記錄"
+    },
+    "clear_browser_option_formData": {
+        "message": "已儲存的表單資料"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "網站檔案系統"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "IndexedDB 資料"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "LocalStorage 資料"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Worker"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "WebSQL 資料"
+    },
+    "button_select_all": {
+        "message": "全選"
+    },
+    "button_remove_all": {
+        "message": "全不選"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "要清除哪個時間範圍的資料？"
+    },
+    "choice_all_time": {
+        "message": "所有時間"
+    },
+    "choice_24h": {
+        "message": "過去 24 小時"
+    },
+    "choice_last_7days": {
+        "message": "過去 7 天"
+    },
+    "choice_last_30days": {
+        "message": "過去 30 天"
+    },
+    "button_clear_browser": {
+        "message": "清除資料"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "確認清除資料"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "瀏覽器資料將被清除且無法恢復。"
+    },
+    "tooltip_top_action_share": {
+        "message": "分享"
+    },
+    "sidebar_link": {
+        "message": "連結"
+    },
+    "bottom_message_upgrade": {
+        "message": "今日升級年繳方案可享 25% 折扣！"
+    },
+    "about_title": {
+        "message": "Trần Đăng Khoa"
+    },
+    "about_content_1": {
+        "message": "我是一名開發者，喜歡開發 Chrome 擴充功能，協助社群媒體傳播與行銷。"
+    },
+    "about_content_2": {
+        "message": "你可以透過下方社群平台進一步了解我並聯絡我。"
+    },
+    "account_type_premium": {
+        "message": "進階版"
+    },
+    "account_type_free": {
+        "message": "免費版"
+    },
+    "email": {
+        "message": "電子郵件"
+    },
+    "created_at": {
+        "message": "建立時間"
+    },
+    "expiry_date": {
+        "message": "到期日"
+    },
+    "logout": {
+        "message": "登出"
+    },
+    "buy_coffee_content_1": {
+        "message": "維護軟體需耗費大量時間及許多不眠之夜，尤其在下班後開發時。"
+    },
+    "buy_coffee_content_2": {
+        "message": "若你喜歡我的作品並想支持我，可透過以下方式幫忙。"
+    },
+    "no_support": {
+        "message": "我不想支持。"
+    },
+    "feature_suggest_title": {
+        "message": "你希望新增什麼功能？"
+    },
+    "feature_suggest_description": {
+        "message": "請提出你認為有用的功能建議。"
+    },
+    "fs_email_description": {
+        "message": "請填寫你的 Email，必要時我們會與你聯絡。（選填）"
+    },
+    "label_fs": {
+        "message": " 功能建議"
+    },
+    "pl_fs_input": {
+        "message": "你想看到的功能"
+    },
+    "payment_fs": {
+        "message": "你願意為此功能付費嗎？"
+    },
+    "button_loading": {
+        "message": "載入中..."
+    },
+    "button_suggest": {
+        "message": "提交建議"
+    },
+    "website": {
+        "message": "網站"
+    },
+    "title": {
+        "message": "標題"
+    },
+    "title_description": {
+        "message": "請輸入易記的名稱，幫助識別此 Cookie 連結所屬網站。（必填）"
+    },
+    "expiration_time": {
+        "message": "到期時間"
+    },
+    "msg_link_not_found": {
+        "message": "未找到該連結。"
+    },
+    "msg_no_permission": {
+        "message": "你沒有足夠權限。"
+    },
+    "msg_error": {
+        "message": "系統發生錯誤。"
+    },
+    "share_cookie_title": {
+        "message": "分享 Cookie"
+    },
+    "share_cookie_description": {
+        "message": "你要分享此 Cookie 嗎？"
+    },
+    "time_option_1h": {
+        "message": "1 小時"
+    },
+    "exp_custom": {
+        "message": "自訂"
+    },
+    "unlimited": {
+        "message": "不限"
+    },
+    "type_option_exp_h": {
+        "message": "小時"
+    },
+    "type_option_exp_d": {
+        "message": "天"
+    },
+    "type_option_exp_m": {
+        "message": "月"
+    },
+    "type_option_exp_y": {
+        "message": "年"
+    },
+    "msg_title_empty": {
+        "message": "標題不能為空。"
+    },
+    "msg_password_empty": {
+        "message": "密碼不能為空。"
+    },
+    "msg_password_length": {
+        "message": "密碼長度至少為 8 個字元。"
+    },
+    "msg_share_error": {
+        "message": "分享失敗。"
+    },
+    "password_encrypt": {
+        "message": "Cookie 解密密碼"
+    },
+    "password_encrypt_description": {
+        "message": "分享前請設定密碼以加密 Cookie—即使我們也無法讀取內容。（必填）"
+    },
+    "link_exp": {
+        "message": "連結已失效"
+    },
+    "link_exp_description": {
+        "message": "若需設定連結失效時間，請填寫到期日，不設則留空。"
+    },
+    "public_link_cookie": {
+        "message": "任何擁有連結者均可存取。"
+    },
+    "title_upgrade": {
+        "message": "簡易定價"
+    },
+    "upgrade_description": {
+        "message": "價格清晰透明，訂閱人數無上限。可隨時變更方案或取消。"
+    },
+    "btn_upgrade_month": {
+        "message": "每月最低 ___price___ 起"
+    },
+    "btn_upgrade_year": {
+        "message": "每年最低 ___price___ 起"
+    },
+    "msg_upgrade": {
+        "message": "享 25% 折扣 — 每年只需支付 ___sale___，原價為 ___price___"
+    },
+    "upgrade_fs_1": {
+        "message": "Cookie 管理"
+    },
+    "upgrade_fs_2": {
+        "message": "加密與解密"
+    },
+    "upgrade_fs_3": {
+        "message": " 分享 Cookie"
+    },
+    "upgrade_fs_4": {
+        "message": " 無廣告"
+    },
+    "upgrade_fs_5": {
+        "message": " 支援"
+    },
+    "remind_login": {
+        "message": "欲分享 Cookie 連結，請先登入。"
+    },
+    "remind_login_btn": {
+        "message": "立即註冊"
+    },
+    "remind_upgrade_title": {
+        "message": "升級以使用此功能。"
+    },
+    "remind_upgrade_description": {
+        "message": "此進階功能僅適用付費帳號。立即升級以啟用。"
+    },
+    "remind_upgrade_btn": {
+        "message": "立即升級"
+    },
+    "msg_password_error": {
+        "message": "密碼不正確。"
+    },
+    "msg_cookie_error": {
+        "message": "Cookie 資料無效，請重新登入。"
+    },
+    "msg_link_exp": {
+        "message": "連結已過期。"
+    },
+    "owner": {
+        "message": "擁有者"
+    },
+    "page_import_description": {
+        "message": "你正透過分享連結使用 Cookie 匯入功能。"
+    },
+    "title_upgrade_no_ads": {
+        "message": "移除廣告 – 一次性付款 ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "再也沒有廣告了。一次付費，永久享受。"
+    },
+    "str_convert_share_link": {
+        "message": "想要和別人分享這個 Cookie 嗎？"
+    },
+    "cta_convert_share_link": {
+        "message": "改為透過連結分享"
+    },
+    "message_copy_link_success": {
+        "message": "連結複製成功"
+    },
+    "message_copy_link_error": {
+        "message": "連結複製失敗"
+    },
+    "setting_title": {
+        "message": "基本設定"
+    },
+    "setting_description": {
+        "message": "自訂擴充功能運作方式"
+    },
+    "setting_confirm_dialog": {
+        "message": "確認對話框"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "使用擴充功能時顯示確認對話框"
+    },
+    "setting_dialog_copy": {
+        "message": "複製當前Cookie時顯示確認對話框"
+    },
+    "setting_dialog_delete": {
+        "message": "刪除當前Cookie時顯示確認對話框"
+    },
+    "setting_dialog_delete_all": {
+        "message": "刪除所有當前Cookie時顯示確認對話框"
+    },
+    "setting_enable_context_menus": {
+        "message": "右鍵選單選項"
+    }
+}

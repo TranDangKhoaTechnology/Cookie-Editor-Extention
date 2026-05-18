@@ -1,0 +1,539 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Hae evästeen nimeä"
+    },
+    "btn_copy": {
+        "message": "Kopioi"
+    },
+    "btn_add": {
+        "message": "Lisää"
+    },
+    "btn_import": {
+        "message": "Tuo"
+    },
+    "btn_export": {
+        "message": "Vie"
+    },
+    "btn_remove": {
+        "message": "Tyhjennä kaikki"
+    },
+    "msg_no_cookies": {
+        "message": "Ei evästeitä."
+    },
+    "btn_delete": {
+        "message": "Poista"
+    },
+    "btn_cancel": {
+        "message": "Peruuta"
+    },
+    "btn_edit": {
+        "message": "Muokkaa"
+    },
+    "title_delete": {
+        "message": "Haluatko poistaa kaikki tämän verkkosivuston evästeet?"
+    },
+    "title_import": {
+        "message": "Yritätkö tuoda evästeitä?"
+    },
+    "msg_import_error": {
+        "message": "Evästeiden tuonti epäonnistui."
+    },
+    "pl_password": {
+        "message": "Salasana evästeiden salaamiseen/purkuun"
+    },
+    "title_export": {
+        "message": "Yritätkö viedä evästeitä?"
+    },
+    "display_setting_title": {
+        "message": "NÄYTTÖASETUKSET"
+    },
+    "display_setting_description": {
+        "message": "Näyttötilan asetukset evästeiden katseluun"
+    },
+    "display_setting_option_default": {
+        "message": "Oletustila"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompakti tila"
+    },
+    "display_setting_option_custom": {
+        "message": "Mukautettu tila"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Mukauta evästeiden näyttöä"
+    },
+    "copy_setting_title": {
+        "message": "KOPIOINTIASETUKSET"
+    },
+    "copy_setting_description": {
+        "message": "Oletusmuoto evästeiden kopioinnissa"
+    },
+    "export_setting_title": {
+        "message": "VIENNIN ASETUKSET"
+    },
+    "export_setting_description": {
+        "message": "Oletusmuoto evästeiden viennissä"
+    },
+    "import_setting_title": {
+        "message": "TUONNIN ASETUKSET"
+    },
+    "import_setting_description": {
+        "message": "Asetukset evästeiden tuontiin"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Lataa verkkosivu uudelleen tuonnin jälkeen"
+    },
+    "import_setting_format": {
+        "message": "Oletusarvoinen tuontivaihtoehto"
+    },
+    "import_setting_format_text": {
+        "message": "Käytä tekstiä"
+    },
+    "import_setting_format_file": {
+        "message": "Käytä tiedostoa"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopiointi onnistui"
+    },
+    "no_cookie_description": {
+        "message": "Verkkosivustolla ei ole evästeitä."
+    },
+    "sidebar_setting": {
+        "message": "Asetukset"
+    },
+    "sidebar_export": {
+        "message": "Vie"
+    },
+    "sidebar_import": {
+        "message": "Tuo"
+    },
+    "alert_add_cookie_success": {
+        "message": "Evästeen lisääminen onnistui"
+    },
+    "alert_add_cookie_error": {
+        "message": "Virhe evästeen lisäämisessä"
+    },
+    "title_add_cookie": {
+        "message": "LISÄÄ EVÄSTE"
+    },
+    "description_add_cookie": {
+        "message": "Haluatko lisätä evästeen?"
+    },
+    "title_clear_cookie": {
+        "message": "TYHJENNÄ EVÄSTEET"
+    },
+    "description_clear_cookie": {
+        "message": "Haluatko poistaa kaikki tämän verkkosivuston evästeet?"
+    },
+    "title_copy_cookie": {
+        "message": "KOPIOI EVÄSTE"
+    },
+    "description_copy_cookie": {
+        "message": "Missä muodossa haluat kopioida evästeen?"
+    },
+    "str_example": {
+        "message": "Esimerkki"
+    },
+    "title_delete_cookie": {
+        "message": "POISTA EVÄSTE"
+    },
+    "description_delete_cookie": {
+        "message": "Haluatko poistaa evästeen?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Evästeen poistaminen onnistui"
+    },
+    "title_edit_cookie": {
+        "message": "MUOKKAA EVÄSTETTÄ"
+    },
+    "description_edit_cooke": {
+        "message": "Haluatko muokata evästeitä?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Evästeen muokkaus onnistui"
+    },
+    "title_export_cookie": {
+        "message": "VIE EVÄSTE"
+    },
+    "description_export_cookie": {
+        "message": "Missä muodossa haluat viedä evästeen?"
+    },
+    "label_password_encrypt": {
+        "message": "Salasana evästeiden salaamiseen"
+    },
+    "description_password": {
+        "message": "Anna salasana, jos haluat evästeen salattavan ennen vientiä (valinnainen)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Evästeiden tuonti onnistui"
+    },
+    "alert_import_cookie_error": {
+        "message": "Virhe evästeiden tuonnissa"
+    },
+    "title_import_cookie": {
+        "message": "TUO EVÄSTEITÄ"
+    },
+    "description_import_cookie": {
+        "message": "Miten haluat tuoda?"
+    },
+    "label_select_file_import": {
+        "message": "Valitse tuotava tiedosto"
+    },
+    "lable_link_import": {
+        "message": "Linkki evästeiden tuontiin"
+    },
+    "label_password_decrypt": {
+        "message": "Salasana evästeiden purkuun"
+    },
+    "description_password_decrypt": {
+        "message": "Anna salausavain, jos evästeet on suojattu salauksella (valinnainen)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Osta minulle kahvi"
+    },
+    "sidebar_reviews": {
+        "message": "Arvostelut"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Jos pidät siitä, harkitse tukemista minua"
+    },
+    "sidebar_clear_browser": {
+        "message": "Tyhjennä selaimen tiedot"
+    },
+    "sidebar_upgrade": {
+        "message": "Päivitä"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Ehdota ominaisuutta"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Tarjoa kahvi"
+    },
+    "sidebar_open_source": {
+        "message": "Avoin lähdekoodi"
+    },
+    "clear_browser_title": {
+        "message": "TYHJENNÄ SELAIMEN TIEDOT"
+    },
+    "clear_browser_description": {
+        "message": "Tyhjennä kaikki selaustiedot yhdellä napsautuksella."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Sivustojen sovellusvälimuistit"
+    },
+    "clear_browser_option_cache": {
+        "message": "Selaimen välimuisti"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Välimuistitallennus"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Evästeet"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Selaimen latauslista"
+    },
+    "clear_browser_option_history": {
+        "message": "Selaushistoria"
+    },
+    "clear_browser_option_formData": {
+        "message": "Tallennetut lomaketiedot"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Sivustojen tiedostojärjestelmät"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Sivustojen IndexedDB-tiedot"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Sivustojen paikallinen tallennus"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Service Workerit"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Sivustojen WebSQL-tiedot"
+    },
+    "button_select_all": {
+        "message": "Valitse kaikki"
+    },
+    "button_remove_all": {
+        "message": "Poista kaikki"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Miltä ajanjaksolta haluat poistaa tiedot?"
+    },
+    "choice_all_time": {
+        "message": "Kaikki ajanjaksot"
+    },
+    "choice_24h": {
+        "message": "Viimeiset 24 tuntia"
+    },
+    "choice_last_7days": {
+        "message": "Viimeiset 7 päivää"
+    },
+    "choice_last_30days": {
+        "message": "Viimeiset 30 päivää"
+    },
+    "button_clear_browser": {
+        "message": "Tyhjennä selaimen tiedot"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "VAHVISTA SELAINTIETOJEN POISTO"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Selaintiedot poistetaan eikä niitä voi palauttaa."
+    },
+    "tooltip_top_action_share": {
+        "message": "Jaa"
+    },
+    "sidebar_link": {
+        "message": "Linkit"
+    },
+    "bottom_message_upgrade": {
+        "message": "Nauti 25 % alennuksesta päivittämällä vuoden tilaukseen jo tänään!"
+    },
+    "about_title": {
+        "message": "Trần Đăng Khoa"
+    },
+    "about_content_1": {
+        "message": "Olen kehittäjä ja rakastan luoda Chrome-laajennuksia. Autan sinua kehittämään ja markkinoimaan sosiaalista mediaa."
+    },
+    "about_content_2": {
+        "message": "Voit oppia lisää minusta ja ottaa yhteyttä seuraavien sosiaalisen median kanavien kautta."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Ilmainen"
+    },
+    "email": {
+        "message": "Sähköposti"
+    },
+    "created_at": {
+        "message": "Luotu"
+    },
+    "expiry_date": {
+        "message": "Vanhentumispäivä"
+    },
+    "logout": {
+        "message": "Kirjaudu ulos"
+    },
+    "buy_coffee_content_1": {
+        "message": "Ohjelmiston ylläpito vie paljon aikaa ja usein myös unettomia öitä – etenkin kun teen sitä päivätyön ohella."
+    },
+    "buy_coffee_content_2": {
+        "message": "Jos arvostat työtäni ja haluat tukea sitä, tässä on muutamia tapoja tehdä se."
+    },
+    "no_support": {
+        "message": "En halua tukea."
+    },
+    "feature_suggest_title": {
+        "message": "Mitä ominaisuutta haluaisit meidän lisäävän?"
+    },
+    "feature_suggest_description": {
+        "message": "Ehdota tarvittavaa ominaisuutta, jos haluat että kehitämme sen."
+    },
+    "fs_email_description": {
+        "message": "Syötä sähköpostiosoitteesi. Voimme ottaa sinuun yhteyttä, jos tarvitsemme lisätietoja. (valinnainen)"
+    },
+    "label_fs": {
+        "message": " Ominaisuusehdotus"
+    },
+    "pl_fs_input": {
+        "message": "Ominaisuus, jonka haluaisit seuraavaksi"
+    },
+    "payment_fs": {
+        "message": "Olisitko valmis maksamaan tästä ominaisuudesta?"
+    },
+    "button_loading": {
+        "message": "Ladataan..."
+    },
+    "button_suggest": {
+        "message": "Ehdota"
+    },
+    "website": {
+        "message": "Verkkosivusto"
+    },
+    "title": {
+        "message": "Otsikko"
+    },
+    "title_description": {
+        "message": "Helposti muistettava nimi, joka auttaa tunnistamaan, mihin sivustoon evästelinkki liittyy. (Pakollinen)"
+    },
+    "expiration_time": {
+        "message": "Vanhentumisaika"
+    },
+    "msg_link_not_found": {
+        "message": "Tätä linkkiä ei ole olemassa."
+    },
+    "msg_no_permission": {
+        "message": "Sinulla ei ole tarvittavia oikeuksia."
+    },
+    "msg_error": {
+        "message": "Tapahtui järjestelmävirhe."
+    },
+    "share_cookie_title": {
+        "message": "JAA EVÄSTE"
+    },
+    "share_cookie_description": {
+        "message": "Haluatko jakaa evästeen?"
+    },
+    "time_option_1h": {
+        "message": "1 tunti"
+    },
+    "exp_custom": {
+        "message": "Mukautettu"
+    },
+    "unlimited": {
+        "message": "Rajaton"
+    },
+    "type_option_exp_h": {
+        "message": "Tunnit"
+    },
+    "type_option_exp_d": {
+        "message": "Päivät"
+    },
+    "type_option_exp_m": {
+        "message": "Kuukaudet"
+    },
+    "type_option_exp_y": {
+        "message": "Vuodet"
+    },
+    "msg_title_empty": {
+        "message": "Otsikko ei saa olla tyhjä."
+    },
+    "msg_password_empty": {
+        "message": "Salasana ei saa olla tyhjä."
+    },
+    "msg_password_length": {
+        "message": "Salasanan on oltava vähintään 8 merkkiä pitkä."
+    },
+    "msg_share_error": {
+        "message": "Jakaminen epäonnistui."
+    },
+    "password_encrypt": {
+        "message": "Salasana evästeiden salaukseen"
+    },
+    "password_encrypt_description": {
+        "message": "Syötä salasana evästeen salaamiseen ennen jakamista. Näin edes me emme näe sisältöä ilman salasanaa. (Pakollinen)"
+    },
+    "link_exp": {
+        "message": "Linkin vanhentumisaika"
+    },
+    "link_exp_description": {
+        "message": "Anna linkin vanhentumisaika, jos haluat sen olevan voimassa vain rajoitetun ajan. Jätä tyhjäksi, jos et halua määrittää aikarajaa."
+    },
+    "public_link_cookie": {
+        "message": "Kuka tahansa voi käyttää jakamaasi linkkiä."
+    },
+    "title_upgrade": {
+        "message": "Yksinkertainen hinnoittelu"
+    },
+    "upgrade_description": {
+        "message": "Yksinkertainen ja läpinäkyvä hinnoittelu ilman tilaajamäärärajoja. Vaihda tai peru milloin tahansa."
+    },
+    "btn_upgrade_month": {
+        "message": "Alkaen ___price___/kuukausi"
+    },
+    "btn_upgrade_year": {
+        "message": "Alkaen ___price___/vuosi"
+    },
+    "msg_upgrade": {
+        "message": "Saat 25 % alennusta — maksa vain ___sale___/vuosi normaalin ___price___ sijaan"
+    },
+    "upgrade_fs_1": {
+        "message": "Evästeiden hallinta"
+    },
+    "upgrade_fs_2": {
+        "message": "Salaus ja salauksen purku"
+    },
+    "upgrade_fs_3": {
+        "message": " Evästeiden jakaminen"
+    },
+    "upgrade_fs_4": {
+        "message": " Ei mainoksia"
+    },
+    "upgrade_fs_5": {
+        "message": " Tuki"
+    },
+    "remind_login": {
+        "message": "Sinun täytyy luoda tili ennen kuin voit jakaa evästeen linkillä."
+    },
+    "remind_login_btn": {
+        "message": "Rekisteröidy nyt"
+    },
+    "remind_upgrade_title": {
+        "message": "Päivitä käyttääksesi tätä ominaisuutta."
+    },
+    "remind_upgrade_description": {
+        "message": "Tämä edistynyt ominaisuus on käytettävissä vain maksullisille tileille. Päivitä nyt saadaksesi käyttöoikeuden."
+    },
+    "remind_upgrade_btn": {
+        "message": "Päivitä nyt"
+    },
+    "msg_password_error": {
+        "message": "Salasana on virheellinen."
+    },
+    "msg_cookie_error": {
+        "message": "Virheellinen evästetieto. Kirjaudu sisään uudelleen."
+    },
+    "msg_link_exp": {
+        "message": "Linkki on vanhentunut."
+    },
+    "owner": {
+        "message": "Omistaja"
+    },
+    "page_import_description": {
+        "message": "Käytät evästeiden tuontitoimintoa jaettua linkkiä käyttäen."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Poista mainokset – Kertamaksu ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Ei enää mainoksia koskaan. Maksa kerran, nauti ikuisesti."
+    },
+    "str_convert_share_link": {
+        "message": "Haluatko jakaa tämän evästeen jonkun kanssa?"
+    },
+    "cta_convert_share_link": {
+        "message": "Jaa linkin kautta sen sijaan"
+    },
+    "message_copy_link_success": {
+        "message": "Linkki kopioitu onnistuneesti"
+    },
+    "message_copy_link_error": {
+        "message": "Linkin kopiointi epäonnistui"
+    },
+    "setting_title": {
+        "message": "PERUSASETUKSET"
+    },
+    "setting_description": {
+        "message": "Mukauta laajennuksen toimintaa omiin tarpeisiisi."
+    },
+    "setting_confirm_dialog": {
+        "message": "VARMISTUSDIALOGI"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Näytä varmistusdialogi laajennusta käytettäessä"
+    },
+    "setting_dialog_copy": {
+        "message": "Näytä varmistusdialogi nykyisten evästeiden kopioinnissa"
+    },
+    "setting_dialog_delete": {
+        "message": "Näytä varmistusdialogi nykyisten evästeiden poistossa"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Näytä varmistusdialogi kaikkien nykyisten evästeiden poistossa"
+    },
+    "setting_enable_context_menus": {
+        "message": "Kontekstivalikon vaihtoehdot"
+    }
+}

@@ -1,0 +1,539 @@
+{
+    "ext_name": {
+        "message": "Cookie Editor"
+    },
+    "ext_description": {
+        "message": "Simple yet powerful Cookie Editor that allow you to quickly create, edit and delete cookies without leaving your tab."
+    },
+    "placeholder_search": {
+        "message": "Otsi küpsise nime"
+    },
+    "btn_copy": {
+        "message": "Kopeeri"
+    },
+    "btn_add": {
+        "message": "Lisa"
+    },
+    "btn_import": {
+        "message": "Impordi"
+    },
+    "btn_export": {
+        "message": "Ekspordi"
+    },
+    "btn_remove": {
+        "message": "Tühjenda kõik"
+    },
+    "msg_no_cookies": {
+        "message": "Küpsiseid pole."
+    },
+    "btn_delete": {
+        "message": "Kustuta"
+    },
+    "btn_cancel": {
+        "message": "Tühista"
+    },
+    "btn_edit": {
+        "message": "Redigeeri"
+    },
+    "title_delete": {
+        "message": "Kas soovite kustutada kõik selle veebisaidi küpsised?"
+    },
+    "title_import": {
+        "message": "Kas proovite küpsiseid importida?"
+    },
+    "msg_import_error": {
+        "message": "Küpsiste importimine ebaõnnestus."
+    },
+    "pl_password": {
+        "message": "Parool küpsiste krüptimiseks/dekrüptimiseks"
+    },
+    "title_export": {
+        "message": "Kas proovite küpsiseid eksportida?"
+    },
+    "display_setting_title": {
+        "message": "KUVA SEADED"
+    },
+    "display_setting_description": {
+        "message": "Küpsiste vaatamise režiimi seaded"
+    },
+    "display_setting_option_default": {
+        "message": "Vaikerežiim"
+    },
+    "display_setting_option_compact": {
+        "message": "Kompaktne režiim"
+    },
+    "display_setting_option_custom": {
+        "message": "Kohandatud režiim"
+    },
+    "setting_customize_display_cookie": {
+        "message": "Kohanda küpsiste kuvamist"
+    },
+    "copy_setting_title": {
+        "message": "KOPEERIMISE SEADED"
+    },
+    "copy_setting_description": {
+        "message": "Vaikevorming küpsiste kopeerimisel"
+    },
+    "export_setting_title": {
+        "message": "EKSPORDI SEADED"
+    },
+    "export_setting_description": {
+        "message": "Vaikevorming küpsiste eksportimisel"
+    },
+    "import_setting_title": {
+        "message": "IMPORTIMISE SEADED"
+    },
+    "import_setting_description": {
+        "message": "Küpsiste importimise seadistuste valikud"
+    },
+    "import_setting_option_reload_page": {
+        "message": "Laadi leht pärast importimist uuesti"
+    },
+    "import_setting_format": {
+        "message": "Vaikeimportimise valik"
+    },
+    "import_setting_format_text": {
+        "message": "Kasuta teksti"
+    },
+    "import_setting_format_file": {
+        "message": "Kasuta faili"
+    },
+    "alert_copy_cookie_success": {
+        "message": "Kopeerimine õnnestus"
+    },
+    "no_cookie_description": {
+        "message": "Veebisaidil pole küpsiseid."
+    },
+    "sidebar_setting": {
+        "message": "Seaded"
+    },
+    "sidebar_export": {
+        "message": "Ekspordi"
+    },
+    "sidebar_import": {
+        "message": "Impordi"
+    },
+    "alert_add_cookie_success": {
+        "message": "Küpsis lisati edukalt"
+    },
+    "alert_add_cookie_error": {
+        "message": "Küpsise lisamine ebaõnnestus"
+    },
+    "title_add_cookie": {
+        "message": "LISA KÜPSIS"
+    },
+    "description_add_cookie": {
+        "message": "Kas soovite küpsise lisada?"
+    },
+    "title_clear_cookie": {
+        "message": "TÜHJENDA KÜPSISED"
+    },
+    "description_clear_cookie": {
+        "message": "Kas soovite kustutada kõik selle veebisaidi küpsised?"
+    },
+    "title_copy_cookie": {
+        "message": "KOPEERI KÜPSIS"
+    },
+    "description_copy_cookie": {
+        "message": "Millises vormingus soovite küpsise kopeerida?"
+    },
+    "str_example": {
+        "message": "Näide"
+    },
+    "title_delete_cookie": {
+        "message": "KUSTUTA KÜPSIS"
+    },
+    "description_delete_cookie": {
+        "message": "Kas soovite küpsise kustutada?"
+    },
+    "alert_delete_cookie_success": {
+        "message": "Küpsis kustutati edukalt"
+    },
+    "title_edit_cookie": {
+        "message": "REDIGEERI KÜPSIST"
+    },
+    "description_edit_cooke": {
+        "message": "Kas soovite küpsist redigeerida?"
+    },
+    "alert_edit_cookie_success": {
+        "message": "Küpsise redigeerimine õnnestus"
+    },
+    "title_export_cookie": {
+        "message": "EKSPORDI KÜPSIS"
+    },
+    "description_export_cookie": {
+        "message": "Millises vormingus soovite küpsise eksportida?"
+    },
+    "label_password_encrypt": {
+        "message": "Parool küpsiste krüptimiseks"
+    },
+    "description_password": {
+        "message": "Sisestage parool, kui soovite küpsise enne eksportimist krüptida (valikuline)."
+    },
+    "alert_import_cookie_success": {
+        "message": "Küpsiste importimine õnnestus"
+    },
+    "alert_import_cookie_error": {
+        "message": "Küpsiste importimine ebaõnnestus"
+    },
+    "title_import_cookie": {
+        "message": "IMPORDI KÜPSISED"
+    },
+    "description_import_cookie": {
+        "message": "Kuidas soovite importida?"
+    },
+    "label_select_file_import": {
+        "message": "Valige importimiseks fail"
+    },
+    "lable_link_import": {
+        "message": "Link küpsiste importimiseks"
+    },
+    "label_password_decrypt": {
+        "message": "Parool küpsiste dekrüptimiseks"
+    },
+    "description_password_decrypt": {
+        "message": "Sisestage dekrüptimisparool, kui küpsised on krüptitud (valikuline)."
+    },
+    "sidebar_buy_me_a_coffee": {
+        "message": "Osta mulle kohv"
+    },
+    "sidebar_reviews": {
+        "message": "Arvustused"
+    },
+    "description_buy_me_a_coffee": {
+        "message": "Kui see sulle meeldib, kaalu mind toetada"
+    },
+    "sidebar_clear_browser": {
+        "message": "Kustuta brauseri andmed"
+    },
+    "sidebar_upgrade": {
+        "message": "Uuenda"
+    },
+    "sidebar_feature_suggestion": {
+        "message": "Funktsiooni ettepanek"
+    },
+    "sidebar_buy_coffee": {
+        "message": "Osta mulle kohv"
+    },
+    "sidebar_open_source": {
+        "message": "Avatud lähtekood"
+    },
+    "clear_browser_title": {
+        "message": "KUSTUTA BRAUSERI ANDMED"
+    },
+    "clear_browser_description": {
+        "message": "Kustuta kõik sirvimisandmed ühe lihtsa klõpsuga."
+    },
+    "clear_browser_option_appcache": {
+        "message": "Veebisaitide rakenduste vahemälu"
+    },
+    "clear_browser_option_cache": {
+        "message": "Brauseri vahemälu"
+    },
+    "clear_browser_option_cacheStorage": {
+        "message": "Vahemälu salvestus"
+    },
+    "clear_browser_option_cookies": {
+        "message": "Küpsised"
+    },
+    "clear_browser_option_downloads": {
+        "message": "Allalaadimiste loend"
+    },
+    "clear_browser_option_history": {
+        "message": "Sirvimisajalugu"
+    },
+    "clear_browser_option_formData": {
+        "message": "Salvestatud vormiandmed"
+    },
+    "clear_browser_option_fileSystems": {
+        "message": "Veebisaitide failisüsteemid"
+    },
+    "clear_browser_option_indexedDB": {
+        "message": "Veebisaitide IndexedDB andmed"
+    },
+    "clear_browser_option_localStorage": {
+        "message": "Veebisaitide kohalik salvestus"
+    },
+    "clear_browser_option_serviceWorkers": {
+        "message": "Teenustöötajad (Service Workers)"
+    },
+    "clear_browser_option_webSQL": {
+        "message": "Veebisaitide WebSQL andmed"
+    },
+    "button_select_all": {
+        "message": "Vali kõik"
+    },
+    "button_remove_all": {
+        "message": "Eemalda kõik"
+    },
+    "message_select_time_clear_browser_data": {
+        "message": "Millise ajavahemiku andmed soovite kustutada?"
+    },
+    "choice_all_time": {
+        "message": "Kogu aeg"
+    },
+    "choice_24h": {
+        "message": "Viimased 24 tundi"
+    },
+    "choice_last_7days": {
+        "message": "Viimased 7 päeva"
+    },
+    "choice_last_30days": {
+        "message": "Viimased 30 päeva"
+    },
+    "button_clear_browser": {
+        "message": "Kustuta brauseri andmed"
+    },
+    "title_confirm_delete_browser_data": {
+        "message": "KINNITA BRAUSERI ANDMETE KUSTUTAMINE"
+    },
+    "description_confirm_delete_browser_data": {
+        "message": "Brauseri andmed kustutatakse ja neid ei saa taastada."
+    },
+    "tooltip_top_action_share": {
+        "message": "Jaga"
+    },
+    "sidebar_link": {
+        "message": "Lingid"
+    },
+    "bottom_message_upgrade": {
+        "message": " Naudi 25% allahindlust, kui uuendad täna aastaplaanile!"
+    },
+    "about_title": {
+        "message": "Trần Đăng Khoa"
+    },
+    "about_content_1": {
+        "message": "Olen arendaja ja mulle meeldib luua Chrome'i laiendusi. Aitan sul arendada ja turundada sotsiaalmeediat."
+    },
+    "about_content_2": {
+        "message": " Saad minust rohkem teada ja võtta ühendust järgmiste sotsiaalmeedia platvormide kaudu."
+    },
+    "account_type_premium": {
+        "message": "Premium"
+    },
+    "account_type_free": {
+        "message": "Tasuta"
+    },
+    "email": {
+        "message": "E-post"
+    },
+    "created_at": {
+        "message": "Loodud"
+    },
+    "expiry_date": {
+        "message": "Aegumiskuupäev"
+    },
+    "logout": {
+        "message": "Logi välja"
+    },
+    "buy_coffee_content_1": {
+        "message": "Tarkvara hooldus võtab palju aega ja unetuid öid, eriti kui töötan sellega pärast päevatööd."
+    },
+    "buy_coffee_content_2": {
+        "message": "Kui sulle mu töö meeldib ja tahad toetust avaldada, on mitu võimalust, kuidas saad mind toetada."
+    },
+    "no_support": {
+        "message": "Ma ei soovi toetada."
+    },
+    "feature_suggest_title": {
+        "message": "Millist funktsiooni sooviksid näha lisatuna?"
+    },
+    "feature_suggest_description": {
+        "message": "Kui soovid, et me arendaksime edasi, siis esita vajalik funktsioon."
+    },
+    "fs_email_description": {
+        "message": "Sisesta oma e-posti aadress. Võime sinuga ühendust võtta, kui vajame täpsustusi. (valikuline)"
+    },
+    "label_fs": {
+        "message": " Funktsiooni ettepanek"
+    },
+    "pl_fs_input": {
+        "message": "Funktsioon, mida sooviksid järgmisena näha"
+    },
+    "payment_fs": {
+        "message": "Kas oleksid nõus selle funktsiooni eest maksma?"
+    },
+    "button_loading": {
+        "message": "Laadimine ..."
+    },
+    "button_suggest": {
+        "message": "Esita ettepanek"
+    },
+    "website": {
+        "message": "Veebisait"
+    },
+    "title": {
+        "message": "Pealkiri"
+    },
+    "title_description": {
+        "message": " Meeldejääv nimi, mis aitab sul tuvastada, millise veebisaidi küpsiselingiga on tegemist. (Nõutav)"
+    },
+    "expiration_time": {
+        "message": "Aegumisaeg"
+    },
+    "msg_link_not_found": {
+        "message": "Seda linki ei eksisteeri."
+    },
+    "msg_no_permission": {
+        "message": "Sul puuduvad vajalikud õigused."
+    },
+    "msg_error": {
+        "message": "Ilmnes süsteemiviga."
+    },
+    "share_cookie_title": {
+        "message": "JAGA KÜPSIST"
+    },
+    "share_cookie_description": {
+        "message": "Kas soovid jagada küpsist?"
+    },
+    "time_option_1h": {
+        "message": "1 tund"
+    },
+    "exp_custom": {
+        "message": "Kohandatud"
+    },
+    "unlimited": {
+        "message": "Piiramatu"
+    },
+    "type_option_exp_h": {
+        "message": "Tunnid"
+    },
+    "type_option_exp_d": {
+        "message": "Päevad"
+    },
+    "type_option_exp_m": {
+        "message": "Kuud"
+    },
+    "type_option_exp_y": {
+        "message": "Aastad"
+    },
+    "msg_title_empty": {
+        "message": "Pealkiri ei tohi olla tühi."
+    },
+    "msg_password_empty": {
+        "message": "Parool ei tohi olla tühi."
+    },
+    "msg_password_length": {
+        "message": "Parool peab olema vähemalt 8 tähemärki pikk."
+    },
+    "msg_share_error": {
+        "message": "Jagamine ebaõnnestus."
+    },
+    "password_encrypt": {
+        "message": "Parool küpsiste dekrüpteerimiseks"
+    },
+    "password_encrypt_description": {
+        "message": "Sisesta parool küpsise krüpteerimiseks enne jagamist. See tagab, et isegi meie ei näe sisu ilma paroolita. (Nõutav)"
+    },
+    "link_exp": {
+        "message": "Lingil aegumisaeg"
+    },
+    "link_exp_description": {
+        "message": "Sisesta lingi aegumisaeg, kui soovid seda jagada piiratud aja jooksul. Jäta tühjaks, kui aegumisaega pole vaja."
+    },
+    "public_link_cookie": {
+        "message": "Igaüks saab juurde pääseda jagatud lingile."
+    },
+    "title_upgrade": {
+        "message": "Lihtne hinnastamine"
+    },
+    "upgrade_description": {
+        "message": "Lihtne, läbipaistev hinnastamine piiramatute tellijatega. Muuda plaani või tühista igal ajal."
+    },
+    "btn_upgrade_month": {
+        "message": "Alates ___price___/kuu"
+    },
+    "btn_upgrade_year": {
+        "message": "Alates ___price___/aasta"
+    },
+    "msg_upgrade": {
+        "message": "Saate 25% soodustust — makske ainult ___sale___/aasta asemel ___price___"
+    },
+    "upgrade_fs_1": {
+        "message": "Küpsiste haldamine"
+    },
+    "upgrade_fs_2": {
+        "message": "Krüpteerimine ja dekrüpteerimine"
+    },
+    "upgrade_fs_3": {
+        "message": " Küpsiste jagamine"
+    },
+    "upgrade_fs_4": {
+        "message": " Reklaamideta"
+    },
+    "upgrade_fs_5": {
+        "message": " Tugi"
+    },
+    "remind_login": {
+        "message": " Pead looma konto enne kui saad jagada küpsist lingi kaudu."
+    },
+    "remind_login_btn": {
+        "message": "Registreeru kohe"
+    },
+    "remind_upgrade_title": {
+        "message": "Palun uuenda, et seda funktsiooni kasutada."
+    },
+    "remind_upgrade_description": {
+        "message": "See täiustatud funktsioon on saadaval ainult tasulistele kontodele. Uuenda kohe, et sellele juurde pääseda."
+    },
+    "remind_upgrade_btn": {
+        "message": "Uuenda kohe"
+    },
+    "msg_password_error": {
+        "message": "Vale dekrüpteerimise parool."
+    },
+    "msg_cookie_error": {
+        "message": "Vigane küpsiseinfo. Palun logi uuesti sisse."
+    },
+    "msg_link_exp": {
+        "message": "Link on aegunud."
+    },
+    "owner": {
+        "message": "Omanik"
+    },
+    "page_import_description": {
+        "message": "Kasutad küpsiste importimise funktsiooni jagatud lingi kaudu."
+    },
+    "title_upgrade_no_ads": {
+        "message": "Eemalda reklaamid – Ühekordne ___price___"
+    },
+    "description_upgrade_no_ads": {
+        "message": "Rohkem reklaame ei tule. Maksa korra, naudi igavesti."
+    },
+    "str_convert_share_link": {
+        "message": "Kas soovid seda küpsist kellegagi jagada?"
+    },
+    "cta_convert_share_link": {
+        "message": "Jaga selle asemel lingi kaudu"
+    },
+    "message_copy_link_success": {
+        "message": "Link kopeeritud edukalt"
+    },
+    "message_copy_link_error": {
+        "message": "Lingi kopeerimine ebaõnnestus"
+    },
+    "setting_title": {
+        "message": "PÕHISEADED"
+    },
+    "setting_description": {
+        "message": "Kohanda laienduse tööd vastavalt oma vajadustele."
+    },
+    "setting_confirm_dialog": {
+        "message": "KINNITUSDIALOOG"
+    },
+    "setting_confirm_dialog_description": {
+        "message": "Määra kinnituse dialoog laienduse kasutamisel"
+    },
+    "setting_dialog_copy": {
+        "message": "Näita kinnituse dialoogi praeguste küpsiste kopeerimisel"
+    },
+    "setting_dialog_delete": {
+        "message": "Näita kinnituse dialoogi praeguste küpsiste kustutamisel"
+    },
+    "setting_dialog_delete_all": {
+        "message": "Näita kinnituse dialoogi kõigi praeguste küpsiste kustutamisel"
+    },
+    "setting_enable_context_menus": {
+        "message": "Kontekstimenüü valikud"
+    }
+}
