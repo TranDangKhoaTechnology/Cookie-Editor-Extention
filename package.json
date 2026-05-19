@@ -3,10 +3,9 @@
   "version": "1.1.0",
   "private": true,
   "type": "module",
-  "homepage": "https://trandangkhoatechnology.github.io/",
+  "homepage": "https://example.com",
   "author": {
-    "name": "Trần Đăng Khoa",
-    "url": "https://www.facebook.com/100026315003067"
+    "name": "Cookie Editor Contributors"
   },
   "license": "GPL-3.0-only",
   "dependencies": {

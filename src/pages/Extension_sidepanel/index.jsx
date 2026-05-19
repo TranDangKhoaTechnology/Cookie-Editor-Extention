@@ -101,13 +101,13 @@ const ExtensionSidePanel = () => {
     }, [])
 
     return (
-        <div className={`w-full h-[100vh] bg-[#282828] ${themeMode === "light" ? "theme-light" : "theme-dark"}`}>
-            <div className={"w-full h-full m-auto bg-[#282828] flex justify-center"}>
+        <div className={`w-full h-[100vh] bg-[#282828] gradient-bg ${themeMode === "light" ? "theme-light" : "theme-dark"}`}>
+            <div className={"w-full h-full m-auto flex justify-center"}>
                 <div
-                    className="h-full inline-block"
+                    className="h-full inline-block fade-in-up"
                     style={{width: "calc(100% - 50px)"}}
                 >
-                    <div className={`w-full h-full p-[10px] ${settingStore.show_ads ? "pb-[70px]" : "pb-[20px]"} overflow-y-auto relative`}>
+                    <div className={`w-full h-full p-[10px] ${settingStore.show_ads ? "pb-[70px]" : "pb-[20px]"} overflow-y-auto relative modern-card`}>
                         <ShowCookie/>
 
                         <Setting/>

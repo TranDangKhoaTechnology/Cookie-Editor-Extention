@@ -14,9 +14,35 @@ const ShowCookie = () => {
     const [favicon, setFavicon] = useState("");
     const [cookieInfo, setCookieInfo] = useState(undefined);
 
+    const cloneTab = (tabInfo) => tabInfo ? JSON.parse(JSON.stringify(tabInfo)) : null;
+
+    const getFallbackWebTab = async () => {
+        const tabs = await chrome.tabs.query({lastFocusedWindow: true});
+        return tabs.find((item) => isHttpUrl(item?.url) && /(^|\.)facebook\.com$/i.test(new URL(item.url).hostname.replace(/^www\./i, "")))
+            || tabs.find((item) => isHttpUrl(item?.url))
+            || null;
+    }
+
     const handleGetTabCurrent = async () => {
         const [tabCurrent] = await chrome.tabs.query({active: true, lastFocusedWindow: true});
-        setTab(tabCurrent ? JSON.parse(JSON.stringify(tabCurrent)) : null);
+
+        if (isHttpUrl(tabCurrent?.url)) {
+            setTab(cloneTab(tabCurrent));
+            return;
+        }
+
+        setTab((previousTab) => {
+            if (isHttpUrl(previousTab?.url)) {
+                return previousTab;
+            }
+
+            return tabCurrent ? cloneTab(tabCurrent) : null;
+        });
+
+        const fallbackTab = await getFallbackWebTab();
+        if (fallbackTab) {
+            setTab(cloneTab(fallbackTab));
+        }
     }
 
     const getFavicon = async (url) => {

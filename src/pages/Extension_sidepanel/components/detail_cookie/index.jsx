@@ -43,6 +43,10 @@ const DetailCookie = ({cookies}) => {
     }
 
     const handleFormatDate = (time) => {
+        if (!time) {
+            return extension.getLang("label_session") || "Session";
+        }
+
         return new Date(time * 1000)
             .toLocaleString('en-GB', {
                 day: '2-digit',
@@ -125,18 +129,17 @@ const DetailCookie = ({cookies}) => {
                 cookies && customizeDisplayCookie.length > 0 && cookies.map((cookie, key) => (
                     <div
                         key={key}
-                        className={`w-ful ${search.length === 0 || (search.length > 0 && cookie.name.toLowerCase().includes(search.toLowerCase())) ? "flex" : "hidden"} items-center min-h-[130px] bg-[#3C3C3C] mb-3 rounded-[10px] p-4 group relative`}>
+                        className={`w-full ${search.length === 0 || (search.length > 0 && cookie.name.toLowerCase().includes(search.toLowerCase())) ? "flex" : "hidden"} items-center min-h-[130px] bg-[#3C3C3C] mb-3 rounded-[10px] p-4 group relative`}>
                         <div className={`w-full inline-block pr-5`}>
                             {
                                 Object.keys(cookie).map((item, itemKey) => {
                                     return (
                                         <div key={itemKey}
-                                             className={`w-full ${(customizeDisplayCookie.find(setting => setting.key === item)?.display || customizeDisplayCookie.find(setting => setting.key === item)?.required) ? "flex items-center" : "hidden"} text-white mb-2 last:mb-0`}>
-                                            <div className={`w-[90px] inline-block`}>
-                                                <p>{item}</p>
+                                             className={`w-full ${(customizeDisplayCookie.find(setting => setting.key === item)?.display || customizeDisplayCookie.find(setting => setting.key === item)?.required) ? "flex items-start gap-3" : "hidden"} text-white mb-2 last:mb-0`}>
+                                            <div className={`w-[105px] shrink-0`}>
+                                                <p className="break-words">{item}</p>
                                             </div>
-                                            <div className={`inline-block`}
-                                                 style={{width: "calc(100% - 90px)"}}>
+                                            <div className={`min-w-0 flex-1`}>
                                                 <p className={`truncate`}>{item === "expirationDate" ? handleFormatDate(cookie[item]) : String(cookie[item])}</p>
                                             </div>
                                         </div>

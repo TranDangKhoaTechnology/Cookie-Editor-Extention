@@ -3,10 +3,7 @@
 Cookie Editor is a Chrome Manifest V3 extension for viewing, creating, editing,
 deleting, importing, exporting, and clearing cookies from the current tab.
 
-Copyright (C) 2026 Trần Đăng Khoa
-
-- Facebook: https://www.facebook.com/100026315003067
-- Website: https://trandangkhoatechnology.github.io/
+Copyright (C) 2026 Cookie Editor Contributors
 
 ## Features
 
@@ -44,7 +41,7 @@ To load it in Chrome:
 
 ## Configuration
 
-The extension uses `https://trandangkhoatechnology.github.io/` by default for
+The extension uses `https://example.com` by default for
 external links. If you run your own account, share-link, or upgrade API, create
 a `.env` file:
 
